@@ -43,14 +43,52 @@ How ROPE 2.3 can help you save keypresses:
 ROPE's added-in outlines usually let you write common words with fewer keypresses and strokes than you could with the outlines that already exist in the Plover dictionary. See the table below (copied and pasted from the ROPE 2.3 spreadsheet) for more details:
 
 Average keypresses per root word in ROPE 2.3:
-(This set of words does not include a couple of curse words in the NGSL top 4000)
-Word rank category	ROPE 2-3 outlines (at time of publication)	Original outlines	Regular typing (e.g. Qwerty/Dvorak; includes extra keypresses for capital letters but not for space key)		
-1 to 100 (in terms of frequency:)	2.510	3.680	3.54		
-1 to 500	3.122	4.804	4.97		
-1 to 1000	3.416	5.245	5.60		
-1 to 2000	3.828	5.724	6.15		
-1 to 4000	4.224	6.389	6.62		
-All ROPE 2.1 words (including non-root words)	4.218	6.348	6.59		
+(This set of words does not include a couple of R-rated words in the NGSL top 4000. Also, there may be some errors in the count, although I did check for mistakes.)
+
+Words 1 to 100 (by frequency):
+ROPE 2.3 (at time it was originally published): 2.510
+Original outlines: 3.680
+Regular typing (e.g. QWERTY/Dvorak; includes extra keypresses for capital letters but not for the space bar): 3.54
+Words 1 to 500:
+ROPE 2.3: 3.122
+Original outlines: 4.804
+Regular typing: 4.97
+Words 1 to 1000:
+ROPE 2.3: 3.416
+Original outlines: 5.425 
+Regular typing: 5.60
+Words 1 to 2000:
+ROPE 2.3: 3.828
+Original outlines: 5.724
+Regular typing: 6.15
+Words 1 to 4000:
+ROPE 2.3: 4.224
+Original outlines: 6.389
+Regular typing: 6.62
+All words in ROPE:
+ROPE 2.3: 4.218
+Original outlines: 6.348 
+Regular typing: 6.59
+
+Number of 2+-stroke outlines per root words in ROPE 2.3:
+
+Words 1 to 100 (by frequency):
+ROPE 2.3 (at time it was originally published): 0
+Original outlines: 0
+Words 1 to 1000:
+ROPE 2.3: 0
+Original outlines: 39
+Words 1 to 2000:
+ROPE 2.3: 0
+Original outlines: 188
+Words 1 to 4000:
+ROPE 2.3: 0
+Original outlines: 852
+All words in ROPE:
+ROPE 2.3: 0
+Original outlines: 871
+
+	
 
 
 What’s new in ROPE 2.3:
