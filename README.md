@@ -67,7 +67,7 @@ Original outlines: **3.680**
 
 Regular typing (e.g. QWERTY/Dvorak; includes extra keypresses for capital letters but not for the space bar): **3.54**
 
-**Words 1 to 500:
+**Words 1 to 500:**
 
 ROPE 2.3: **3.122**
 
@@ -523,7 +523,7 @@ In addition, I find that it's hard to remember which R key should be used with o
 
 # #4. Other useful stuff
 
-**4.1. I just downloaded Plover for the first time tonight. Can I start using this immediately? **
+**4.1. I just downloaded Plover for the first time tonight. Can I start using this immediately?**
 
 I wouldn't recommend using this until you've gone through all the terrific Learn Plover! exercises. (https://sites.google.com/site/ploverdoc/ ) I normally didn't include any information about interpreting outlines if it was already listed there. For instance, the stories assume that you know which combinations of keys on the Plover keyboard (e.g. PH-, -BG) map to which keys (e.g. M, K.).
 
