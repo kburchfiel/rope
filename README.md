@@ -36,7 +36,7 @@ That’s where ROPE comes in! ROPE is a “rope” that is meant to help you cli
 Happy studying!
 
 
-**Disclaimer with regard to the added-in outlines:
+**Disclaimer with regard to the added-in outlines:**
 
 I am a Plover enthusiast, but I am not a professional stenotypist, and I am still working on building my speed. Although I think my outline additions will help me boost my speed, I don't have any proof that these outlines will be faster than the original outlines also listed. Therefore, use these new outlines at your own risk!
 
@@ -69,88 +69,88 @@ Regular typing (e.g. QWERTY/Dvorak; includes extra keypresses for capital letter
 
 **Words 1 to 500:
 
-ROPE 2.3: **3.122
+ROPE 2.3: **3.122**
 
-Original outlines: **4.804
+Original outlines: **4.804**
 
-Regular typing: **4.97
+Regular typing: **4.97**
 
-**Words 1 to 1000:
+**Words 1 to 1000:**
 
-ROPE 2.3: **3.416
+ROPE 2.3: **3.416**
 
-Original outlines: **5.425 
+Original outlines: **5.425**
 
-Regular typing: **5.60
+Regular typing: **5.60**
 
-**Words 1 to 2000:
+**Words 1 to 2000:**
 
-ROPE 2.3: **3.828
+ROPE 2.3: **3.828**
 
-Original outlines: **5.724
+Original outlines: **5.724**
 
-Regular typing: **6.15
+Regular typing: **6.15**
 
-**Words 1 to 4000:
+**Words 1 to 4000:**
 
-ROPE 2.3: **4.224
+ROPE 2.3: **4.224**
 
-Original outlines: **6.389
+Original outlines: **6.389**
 
-Regular typing: **6.62
-
-
-**All words in ROPE:
-
-ROPE 2.3: **4.218
-
-Original outlines: **6.348 
-
-Regular typing: **6.59
+Regular typing: **6.62**
 
 
+**All words in ROPE:**
 
-**Number of 2+-stroke outlines per root words in ROPE 2.3:
+ROPE 2.3: **4.218**
+
+Original outlines: **6.348**
+
+Regular typing: **6.59**
+
+
+
+**Number of 2+-stroke outlines per root words in ROPE 2.3:**
 
 
 
 Words 1 to 100 (by frequency):
 
-ROPE 2.3 (at time it was originally published): **0
+ROPE 2.3 (at time it was originally published): **0**
 
-Original outlines: **0
+Original outlines: **0**
 
-**Words 1 to 1000:
+**Words 1 to 1000:**
 
-ROPE 2.3: **0
+ROPE 2.3: **0**
 
-Original outlines: **39
+Original outlines: **39**
 
-**Words 1 to 2000:
+**Words 1 to 2000:**
 
-ROPE 2.3: **0
+ROPE 2.3: **0**
 
-Original outlines: **188
+Original outlines: **188**
 
-**Words 1 to 4000:
+**Words 1 to 4000:**
 
-ROPE 2.3: **0
+ROPE 2.3: **0**
 
-Original outlines: **852
+Original outlines: **852**
 
-**All words in ROPE:
+**All words in ROPE:**
 
-ROPE 2.3: **0
+ROPE 2.3: **0**
 
-Original outlines: **871
+Original outlines: **871**
 
 
 
 
 
 # # What’s new in ROPE 2.3:
-	ROPE 2.3 includes a large number (probably over 1,000) of changes to my outlines list. These new outlines should make ROPE 2.3 more user-friendly than the original version of ROPE 2.2. Perhaps the main driver of these outline changes was my growing recognition that NIVLOs (non-intuitive vowel-less outlines) are usually not ideal choices for outlines. This recognition has led to the replacement of many NIVLOs. (For more on NIVLOs, see section 3.3.3.6 below.)
-	In addition, I am excited to have ROPE 2.3 hosted on GitHub! I plan to post updates to ROPE to GitHub frequently. I’ll do so by backing up files from my Plover SD card (where I edit my ROPE documents) to a GitHub repository on my computer that interfaces with GitHub Desktop, then uploading these documents from my computer to the online GitHub page.
+ROPE 2.3 includes a large number (probably over 1,000) of changes to my outlines list. These new outlines should make ROPE 2.3 more user-friendly than the original version of ROPE 2.2. Perhaps the main driver of these outline changes was my growing recognition that NIVLOs (non-intuitive vowel-less outlines) are usually not ideal choices for outlines. This recognition has led to the replacement of many NIVLOs. (For more on NIVLOs, see section 3.3.3.6 below.)
+In addition, I am excited to have ROPE 2.3 hosted on GitHub! I plan to post updates to ROPE to GitHub frequently. I’ll do so by backing up files from my Plover SD card (where I edit my ROPE documents) to a GitHub repository on my computer that interfaces with GitHub Desktop, then uploading these documents from my computer to the online GitHub page.
 
 
 
@@ -158,7 +158,7 @@ Original outlines: **871
 
 # # 1. The wordlist and other components of ROPE
 
-**1.1. How did you choose which words to put in this list? 
+**1.1. How did you choose which words to put in this list?**
 
 The roughly 4,200 words in this list came from the New General Service List website (by Browne, C., Culligan, B., and Phillips, J) (http://www.newgeneralservicelist.org/ ). Specifically, the list includes the 2,801 words in the New General Service List ; many of the supplemental words in the NGSL document (such as months, days of the week, and numbers); common derivatives of the NGSL words, such as "am" and "are" for the root word "be"; and other words that were ranked in the top 4,000 by SFI (standard frequency index) in the "NGSL Stats & Frequencies to 34K" document, minus 2 curse words (f*** and s***) (see http://www.newgeneralservicelist.org/s/NGSL-101-with-SFI.xlsx ). So essentially, ROPE includes almost all of the top 4,000 words in English (according to one frequency list), along with important supplemental and derivative words.
 
@@ -167,13 +167,13 @@ I should point out that this is mostly a list of root words, and many derivative
 In short, I think ROPE will prepare you to write lots of common English words. And if there are other words that you frequently use, feel free to add them to your copy of the documents!
 
 
-**1.2. What is the purpose of the stories and the Anki deck?
+**1.2. What is the purpose of the stories and the Anki deck?**
 
 I found that while creating a list of outlines for common words was helpful for me, learning the outlines wasn't enough; I actually had to remember them! That's where Anki comes in. Anki has a great spaced repetition algorithm that helps you review cards more efficiently. You review each card more often when you're starting out (or after you got a review wrong), and less often once you're gotten it right multiple times in a row. There are both desktop and cell phone versions of the program that sync with one another.
 I thought I was set once I had my list of outlines and Anki decks. But after I was a couple thousand reviews in, I saw that I could use some extra help in remembering the more tricky and non-intuitive outlines. That's where the ~2,790 'stories' I've included come in. (See below for more information on those.) These stories, which I wrote in the process of going through the entire deck, have really helped me recall outlines that I haven't had many opportunities to review. 
 While everyone's experience will vary, I think these outlines, flashcards, and stories can be just as helpful to other Plover learners as they were to me—which is why I'd like to share them with anyone who's interested. 
 
-**1.3. How should I review these cards in Anki? I'm worried I will forget the cards I studied first by the time I get to the end of the deck.
+**1.3. How should I review these cards in Anki? I'm worried I will forget the cards I studied first by the time I get to the end of the deck.**
 
 This is a very important question, and one that took a lot of trial and error for me to answer! ROPE 2.3 has around 4,200 cards, so if you were to study the cards in linear order (from most frequent to least frequent), you might end up forgetting the first cards you studied by the time you go through the whole deck at least once. Even though Anki uses a spaced repetition feature to guard against forgetting cards, the reality is that if you try to study a lot of new cards each day without making sure you've completed all your reviews, some cards will be forgotten. (This was the case for me, at least.)
 	Here is the Anki study method that I recommend to help you learn new cards without forgetting older cards in the process. It helps ensure that you have done all needed reviews of cards at or above a certain frequency before moving on to cards of a lower frequency.
@@ -186,7 +186,7 @@ This is a very important question, and one that took a lot of trial and error fo
 3: Select the ROPE 2-3 deck, then hit “Browse” at the top of the screen. Hit “Enter” to select cards from ROPE 2-3 only. Highlight all of the cards using CTRL-A, right-click, and select “Reschedule.” Choose the “Place in review queue with interval between” option, and keep both numbers below at 0. (Note: if you have already reviewed all the cards in the deck, you do not need to choose this option, and in fact it may be best not to.)
 What does this step accomplish? When you first launch the deck, all of the cards will be “new” cards, so they would originally not show up in the filtered deck that we are creating below (which will only show due cards). The purpose of this step 2.5 is to tell Anki that all the cards in the deck, including ones you have never studied, are due; that way, they will show up in the filtered deck. 
 
-4. Click on "Tools" (near the top left of the Anki screen), and then select "Create Filtered Deck." Make sure that the text in the "Search" row reads "deck:"ROPE 2-3"  is:due." (This will tell the program to choose only due cards for this deck.) In the "Limit to" tab, choose "Order added" for how Anki will select the cards. (You can also choose the number of cards to select for your deck. You can choose to study a set number at a time, such as 50 or 100, or you can put “9999” in for the number and limit your reviews by time (e.g. 1 hour). The latter is my preferred method.)** Finally, you have the option of using custom steps; I recommend checking the custom steps box and then entering “1 10” into that box (if it’s not already listed). Then click "Build" at the bottom.
+4. Click on "Tools" (near the top left of the Anki screen), and then select "Create Filtered Deck." Make sure that the text in the "Search" row reads "deck:"ROPE 2-3"  is:due." (This will tell the program to choose only due cards for this deck.) In the "Limit to" tab, choose "Order added" for how Anki will select the cards. (You can also choose the number of cards to select for your deck. You can choose to study a set number at a time, such as 50 or 100, or you can put “9999” in for the number and limit your reviews by time (e.g. 1 hour). The latter is my preferred method.) Finally, you have the option of using custom steps; I recommend checking the custom steps box and then entering “1 10” into that box (if it’s not already listed). Then click "Build" at the bottom.
 This filtered deck plays a very important role: it helps you focus your due card reviews on the most frequent words in ROPE. Without this filtered deck, you might have a higher chance of forgetting frequent cards as you review less frequent cards.
 
 5. Now that you have both your ROPE 2.3 deck and your filtered deck set up, here's how you can learn new outlines while still remembering older outlines:
@@ -216,7 +216,7 @@ Note that this dictionary is meant to be used as a supplement to the regular Plo
 
 # #PART 2: STORIES
 
-**2.1. What do you mean by 'stories'?
+**2.1. What do you mean by 'stories'?**
 
 I owe James Heisig, the author of the brilliant Remembering the Kanji and Remembering the Hanzi books, all the credit for the idea of using mnemonic stories to recall information. Heisig wrote those books to help people learn the characters that are found in written Japanese and Chinese. His premise was that in order to remember how to write characters, you need to look at the individual elements of those characters, and then craft a story that connects those elements to the meaning of the character.
 
@@ -228,7 +228,7 @@ As a disclaimer, these stories do not solve all the work of remembering an outli
 
 A more precise mnemonic method to use with Plover was developed by Joshua Pan, and can be found at https://github.com/openstenoproject/plover/wiki/Stenotype-Mnemonics-for-Beginners-(English) 
 
-**2.3: Different strategies for creating stories
+**2.3: Different strategies for creating stories**
 
 I used a number of different strategies to come up with words that could help me remember the letters in an outline. I found that having multiple strategies made the story-making process easier. If you're trying to create your own story for an outline, feel free to use these strategies as well.
 
@@ -333,13 +333,13 @@ I probably went into more detail here than was necessary, but I didn't want you 
 
 17: -Z: ZOO (I use R*AOUP for "ZOO (-Z); "zoo" is SAO*)
 
-**2.4. These stories seem like a lot of extra effort and are kind of silly. Do they really work?
+**2.4. These stories seem like a lot of extra effort and are kind of silly. Do they really work?**
 
 Based on my own experience, I believe they do work. It's a lot easier to remember stories than it is to remember non-intuitive strings of letters. That reflects a central truth about mnemonics—that to remember something, you want to convert it into a form that's easier to recall. 
 
 However, I'm quite sure that not all of my stories will work for you. Some of them reference things (like Nintendo games) that you may not know anything about. And in the process of studying these outlines, you'll probably think of some far better stories than the ones that I had. In this case, the solution is easy: overwrite my story with your story in the Excel file and Anki deck! 
 
-**2.5. Why only ~2750 stories? Why not a story for every word?
+**2.5. Why only ~2750 stories? Why not a story for every word?**
 
 There are a number of reasons why a word may not have a story attached to it: 
 
@@ -361,7 +361,7 @@ These stories are meant to be like the giant Saturn V rockets that powered astro
 
 But not to worry—if you forget an outline, the stories can help you insert it back into your memory.
 
-**2.7. Anything else I should know about the stories?
+**2.7. Anything else I should know about the stories?**
 
 1. Don't assume anything I say in the stories to be true! There's a ton of made-up stuff and false information, but it's all there to help you learn the outlines. 
 
@@ -372,11 +372,11 @@ But not to worry—if you forget an outline, the stories can help you insert it 
 
 # #3. THE OUTLINES AND THE WORDS
 
-**3.1. How did you pick what outlines to use for each word?
+**3.1. How did you pick what outlines to use for each word?**
 
 I started with words that are already in the Plover Dictionary. However, I then added in additional outlines in order to save keypresses and strokes. Whether you use these additional outlines is totally up to you!
 
-**3.2. Why did you choose so many new outlines?
+**3.2. Why did you choose so many new outlines?**
 
 Because I currently write steno on a keyboard, and not on a purpose-built steno machine, I wanted to be able to write all the words in ROPE 2.3 in just one stroke and in 5 keypresses or less. I figured that this would reduce fatigue. In addition, as a beginning user, I thought that creating shorter outlines could also improve my speed and accuracy.
 
@@ -384,60 +384,62 @@ Theoretically, you could write all words in ROPE in just 4 keypresses or less. H
 
 Once again, you don't need to use these additional outlines if you prefer not to! Outlines that are added in are placed in their own column, so it's easy to tell which is which.
 
-**3.3. How did you choose the new outlines?
+**3.3. How did you choose the new outlines?**
 
 I personally believe that a good outline has 3 qualities: (1 ergonomics (so it's comfortable to write); (2 ease (so you can type it consistently without making an error), and (3 efficiency (meaning it doesn't require many keypresses). While it's also helpful for an outline to resemble the word it's mapped to, this isn't necessary, as you can use mnemonic devices (such as the stories in ROPE) to commit non-intuitive outlines to memory. 
 
-**3.3.1 Finding potential outlines
+**3.3.1 Finding potential outlines**
 
 To add in the new outlines, I first used an online combinations generator (https://planetcalc.com/3757/) and Excel to make a list of all potential 1-4 stroke outlines (along with some 5-stroke outlines) that could be written using what I call the "homerow." (I define the "homerow" as the letters STKPWHR on the left hand, AOEU with the thumbs, and FRPBLGTS on the right hand. These are the keys that you do not need to substantially move your fingers to reach.) Using this generator and Excel, I came up with a list of around 9,500 potential outlines. Over 5,000 of these used 4 or fewer keypresses. If you'd like to view this list yourself, you can go to the "Outlines of 5 or fewer keypresses" tab in the ROPE 2.1 spreadsheet.
-**3.3.2 Coding the outlines
+**3.3.2 Coding the outlines**
 
 I then went through many of these outlines and coded them for how easy I thought they would be to write, and whether they were already mapped to a word. (Many of them were already assigned, but I found a number of "gems" that were untouched. After I coded them, I then assigned them to words in ROPE. Because these new outlines normally weren't intuitive, I then added in mnemonic stories to make it easier to remember the outlines.
 
-**3.3.3 My criteria for selecting outlines for words:
+**3.3.3 My criteria for selecting outlines for words:**
 
 Although many of my added-in outlines had little or nothing to do with the words to which they were mapped, my choice of outlines was not entirely random; there were a number of criteria that have guided my choice of outlines and my many updates to this outlines list. Here are at least some of those criteria (which are not ranked in any particular order):
 
-**3.3.3.1. Shorter outlines for more frequent words
+**3.3.3.1. Shorter outlines for more frequent words**
 
 In general, I tried to assign shorter outlines to more common words in ROPE, and 5-stroke outlines to less common words, with the overall goal being to reduce the number of keypresses that you'll use in an average day of writing. (All of the outlines in the top 1000 have 4 or fewer keypresses.) Another benefit of starting with shorter outlines was that I could then use the words those outlines stood for as components of stories for longer outlines that included them. 
-**3.3.3.2. Different outline endings work better for different parts of speech
+
+**3.3.3.2. Different outline endings work better for different parts of speech**
 
 I also recognized that different outlines are ideal for different parts of speech depending on their endings. This is due to the additional endings that verbs, nouns, and adjectives can take.  Outlines that can have G, D, and S added to the end without turning into another word (and without requiring a second stroke) are ideal for verbs, as you'll often add on a G, D, and an S to a verb to produce the –ing, -ed, and –s endings. (However, outlines that end in G can work fine for verbs as well, as long as you can produce a one-stroke “-ing” version of the word by adding an asterisk to the outline for the root form of the verb). Outlines that can have –L and –R added to them are ideal for adjectives, since these often take an –ly ending, and sometimes an –er ending. Outlines that can have S added to them are ideal for nouns, as you can then write the plural form of the word. (Outlines that end in -T and -G are also ideal for nouns, as these outlines are not as ideal for verbs.) Outlines that can't have anything added to them are ideal for adverbs and adjectives, although it's ideal for outlines for adjectives to support the addition of an L (and sometimes an R). 
 
 As far as the process of adding in outlines went, I found that adding in outlines for one part of speech at a time (e.g. verbs, then adjectives, then nouns, then adverbs) may be more efficient. It's best to do verbs first, as they have a limited number of ideal outlines (due to the endings they can take). I think it's then ideal to add in outlines for adjectives, as they will benefit from outlines that can have an R or L added to them. After that, you can add in outlines for nouns, and finally adverbs.
 
-**3.3.3.3. Some outline beginnings/endings are more ergonomic than others
+**3.3.3.3. Some outline beginnings/endings are more ergonomic than others**
 
 With regard to ergonomics, I have found that some key combinations are easier to write consistently than others. This may be because (at least on a regular keyboard) my hands naturally rest in a curved pattern, with the middle and ring fingers higher than the pinky and index fingers. Keypress combinations that help maintain this curvature (e.g. ST- may feel more comfortable to write than outlines that force the hands to assume a different position (Other writers may have their own preferences, but I thought it would be helpful to share my (non-exhaustive) list. 
 
-**Beginnings that I like (and would prefer to use for briefs):
+**Beginnings that I like (and would prefer to use for briefs):**
 
 SP-; ST-; SH-; SR-; PW-; HR-; TK-
 
-**Beginnings that I don’t like as much (and would prefer to avoid for briefs)
+**Beginnings that I don’t like as much (and would prefer to avoid for briefs)**
 
 TW-; TR- (when followed by A or O); KP-; WH- (which really isn’t terrible but does make the index finger go higher than the middle finger)
 
-**Endings that I like:
+**Endings that I like:**
 
 -FR (especially for verbs); -FP (especially for verbs); -RP- (especially for verbs); -RB; -PG; -FS; -PB
 
-**Endings that I don’t like as much:
+**Endings that I don’t like as much:**
 
 -FB (especially –FPB, as it’s hard to avoid writing –FRPB); -GT
 
-**3.3.3.4. Preferred fingers to use for outlines
+**3.3.3.4. Preferred fingers to use for outlines**
+
 Steno makes good use of every finger, so I don’t think it’s ideal to avoid using a particular finger. However, I have found that I prefer to avoid vowel-less outlines that use a combination of ring-finger keypresses and non-ring-finger keypresses. In addition, I consider it a plus if a brief uses the same finger on both hands, as I find it easier to use the same finger twice than to use two different fingers. 
 
-**3.3.3.5. Similar outlines for similar words
+**3.3.3.5. Similar outlines for similar words**
 
 In addition, I also tried to give similar words similar outlines so as to reduce the amount of unique, non-related outlines that you will need to memorize. If one word in ROPE is the same as another word in ROPE, except for a certain suffix (such as –ly, –er, -ive, or -tion), it will be ideal for that word to have the same outline, except with one or more additional letters (such as -L, -R, -F, or -T) that represent the suffix. (See below for an explanation for my use of "T" instead of "GS" in some situations.) This strategy has the additional benefit of reinforcing your recall of similar words. When adding a suffix to a word would cause the word to have more keypresses than desired (i.e. 5+ strokes for root words in the top 1,000 and 6+ strokes for all other words in ROPE), I had three options. First, I could change the original word so that adding a suffix would keep the new word under my keypress limits. Secondly, I could add in a new outline for the derivative word whose root (the part I to which I was adding the suffix) was similar to, but not identical to the original outline. For example, in some cases, I replaced the final letter of an original outline with an asterisk to create an outline for the derivative word. Finally, I could add in an unrelated outline for the derivative word.
 
 As noted above, I prefer to match the root version of an outline with the root version of a word and then match derivative versions of that outline with derivative versions of that word. However, in cases where the derivative version of the word is more common than the root version of the word (especially when the root version of the word doesn't appear in ROPE), I may match the root version of an outline to a derivative word, and a derivative version of an outline to a root word.
 
-**3.3.3.6. Avoiding/removing non-intuitive vowel-less outlines (NIVLOs)
+**3.3.3.6. Avoiding/removing non-intuitive vowel-less outlines (NIVLOs)**
 
 Following the introduction of ROPE 2.3, I found that learning and correctly writing outlines that aren’t at all intuitive and don’t have vowels in them (which I term NIVLOs) seems to be harder than learning and writing outlines that have a vowel and/or are intuitive. My hypothesis is that this is due to at least two reasons:
 
@@ -455,7 +457,7 @@ However, because there are only so many “voweled” outlines available with un
 
 Also, there is a NIVLO column in ROPE 2-3 (currently column J) that you can review and edit as needed.
 
-**3.3.3.7. The use of –T and * to represent different endings
+**3.3.3.7. The use of –T and * to represent different endings**
 
 When it makes sense to do so, I prefer to use -T instead of -GS to represent the "-ion" and “-ation” endings, as (1 it often saves a keystroke, and (2 it can make it easier to write the plural form of outlines for verbs that end in G. For instance, I use ORGT for "organization." Using ORGT allows you to use ORGS for "organizes," and also makes it a little easier to write "organizations" (ORGTS). 
 
@@ -467,43 +469,43 @@ When it is helpful, I also use –T to represent other endings. For instance, I 
 
 When adding –T to the outline won’t work, or when –T is already taken, I like to use * as a “backup” modifier. In addition, I often add * to an original outline to produce a new outline that is an antonym of the original outline. I find that this strategy makes it easier to remember the new outline.
 
-**3.3.3.8. Intuitive outlines are preferable to non-intuitive ones
+**3.3.3.8. Intuitive outlines are preferable to non-intuitive ones**
 
 Although I do believe that it’s not crucial for outlines to be intuitive, I acknowledge that, all else being equal, intuitive outlines are better fits than non-intuitive outlines (provided that the intuitive outlines still fit within my 4- and 5-keypress limits).
 
-**3.3.3.9. Outlines with -R and R-
+**3.3.3.9. Outlines with -R and R-**
 
 If you have an outline that uses R-, especially if it’s a vowel-less outline, you should also consider adding in the same outline except with -R, and vice versa. That’s because it can be hard to remember which R to use, even with a mnemonic story that helps differentiate between them. In addition, I would recommend adding in an outline with both Rs in use, as your fingers may try to write both of them at the same time. I would also recommend against using outlines that differ only in the type of R they use to write two different words, although this still shows up in ROPE. You may also find it helpful to apply this concept to outlines that use one of the two Ps.
 
-**3.3.3.10. Preferred keys for outlines
+**3.3.3.10. Preferred keys for outlines**
 
 Although the briefs in ROPE use every key but the number row, my preferred keys for briefs are those that don’t involve much horizontal finger travel: specifically, every key but the asterisk key, the number row, D, and Z. However, plenty of my briefs do use the asterisk key, since it’s a helpful tool for creating derivative outlines.
 
-**3.3.3.11. Does it work “in vivo”?
+**3.3.3.11. Does it work “in vivo”?**
 
 An outline may look great on the spreadsheet, but only after it’s put into practice can you determine whether it works for you. I have made lots of changes to my original outline list after finding that some of the outlines I originally assigned to words were hard to write consistently. The largest example of this was the trouble I had with vowel-less outlines, which led me to replace many of these outlines with “vowelled” outlines.
 
-**3.3.3.12. Using outlines already mapped to other words
+**3.3.3.12. Using outlines already mapped to other words**
 
 I don’t have too many qualms about using great outlines already mapped to less frequent words for more frequent words, particularly if I can remap the less frequent word to the same outline except with an asterisk added. For example, HOP is a great outline for verbs that usually maps to “hop,” a word ranked #3,999 in frequency. Because this outline is both very short and very easy to write, I remapped it to “clothe” (making “clothing” and “clothes” into 4-keypress outlines), and remapped “hop” to H*OP. Ultimately, there are only so many great outlines to go around, so I’m happy to repurpose them for more frequent words.
 
 
-**3.3.4 Other notes on outline choices:
+**3.3.4 Other notes on outline choices:**
 
-**Replacing –S with –Z for plurals
+**Replacing –S with –Z for plurals**
 
 For plurals of outlines that end with –S, it can be helpful to add in outlines that replace the –S with a –Z, as these will make it easier to write the plural forms. For example, I use KAS for “individual,” so I added in KAZ for “individuals.” This is much easier to write than is KASZ. Similarly, I use S-GS for “solution,” so I added in S-GZ for “solutions.”
 
-**Adding in outlines for "hidden" root words
+**Adding in outlines for "hidden" root words**
 
 If a word in ROPE was based off a root word that is not one of the ~4,200 words in ROPE, I sometimes created a new outline for that root word, and then provided a story for that outline. This would not only help you remember the outline for the word based on the root word, but would also make it easier to write the root word.
 
-**3.3. I'd rather use a different outline for some of these words.
+**3.3. I'd rather use a different outline for some of these words.**
 
 No problem! The Excel and Anki versions of ROPE are both super-customizable, so you can make all the changes to the outlines that you'd like. The outlines I've listed are simply my preferences, just as the stories I've listed are simply the ones that I preferred to use. Feel free to edit this list to fit your needs.
 
 
-**3.5. Are there some other outlines I should also add in?
+**3.5. Are there some other outlines I should also add in?**
 
 For adjective outlines (both old and new), I recommend adding in -ly and -er endings by adding on R and -L to the end of the stroke (provided that those additions don't change the outline to a different word). For instance, with the addition of PWRE for "extraordinary," I also added in PWREL for "extraordinarily." I sometimes mention these additions in my notes for outlines, but not always.					 
 
@@ -521,13 +523,13 @@ In addition, I find that it's hard to remember which R key should be used with o
 
 # #4. Other useful stuff
 
-**4.1. I just downloaded Plover for the first time tonight. Can I start using this immediately? 
+**4.1. I just downloaded Plover for the first time tonight. Can I start using this immediately? **
 
-I wouldn't recommend using this until you've gone through all the terrific Learn Plover! exercises and understand them well. (https://sites.google.com/site/ploverdoc/ ) I normally didn't include any information about interpreting outlines if it was already listed there. For instance, the stories assume that you know which combinations of keys on the Plover keyboard (e.g. PH-, -BG) map to which keys (e.g. M, K.).
+I wouldn't recommend using this until you've gone through all the terrific Learn Plover! exercises. (https://sites.google.com/site/ploverdoc/ ) I normally didn't include any information about interpreting outlines if it was already listed there. For instance, the stories assume that you know which combinations of keys on the Plover keyboard (e.g. PH-, -BG) map to which keys (e.g. M, K.).
 
 Once you've done the Learn Plover! exercises, I think you're welcome to start ROPE if you'd like to. 
 
-**4.3. I want to focus on learning the most common 500/1000/2000 words first. Is there a way to do this?
+**4.3. I want to focus on learning the most common 500/1000/2000 words first. Is there a way to do this?**
 
 There are a number of ways to do this:
 
@@ -537,19 +539,21 @@ There are a number of ways to do this:
 
 3. You can also use Anki’s tags feature to study a deck that only includes cards that share a certain tag. By tagging the cards you’d like to focus on (such as the 500 most frequent words) and creating a deck with only those tagged cards, you’ll be able to focus your studying on a select group of cards.
 
-**4.4. How should I sort the Excel file?
+**4.4. How should I sort the Excel file?**
 	It's really up to you! Just make sure to select all columns before sorting! I think sorting them by alphabetical order and by frequency both make sense.
 
-**4.5. Do you plan to keep updating this?
+**4.5. Do you plan to keep updating this?**
 
 Yes. This is definitely still a work in progress. 
 
 I also plan to release frequent updates to these files. However, if I make more major updates in the future, I might release a new set of materials as ROPE 2.4, or even ROPE 3.0. 
  
-**4.6. I'd like to contribute! Can I send you stories and corrections? 
+**4.6. I'd like to contribute! Can I send you stories and corrections?**
+
 Corrections are welcome! As far as stories go, I think the best thing to do is add those stories to your deck, and then share them online for others to use if you wish, rather than sending them directly to me. I might not have as much time/interest in this project in the future as I do now, so I wouldn't want to be the one responsible for maintaining it with new stories. 
 
-**4.7. What other information is included in the Excel/Anki documents?
+**4.7. What other information is included in the Excel/Anki documents?**
+
 The Excel and Anki files also include:
 1. The original list from the NGSL website, if any, in which these words appeared
 1. The frequency ranks for words
@@ -557,16 +561,17 @@ The Excel and Anki files also include:
 4. Alternate or added-in outlines for some of the words
 5. Additional information that might help you remember an outline (but doesn't constitute a mnemonic story)
 
+In addition, the Excel file contains a list of outlines that I consider to be NIVLOs (see above). I have made a lot of progress in reducing ROPE's NIVLO count.
 
-**4.8. I don't like the formatting of the Anki cards! The text is far too large/small.
+**4.8. I don't like the formatting of the Anki cards! The text is far too large/small.**
 
 My apologies for this. I use Anki on an unscaled 4K monitor, so I have to make the text a lot larger than I otherwise would. You can change the font size and formatting of the deck through Anki, and there should be online FAQs available to help you out with that.
 
-**4.9. Copyright info:
+**4.9. Copyright info:**
 
 I release all of the stories I myself wrote into the public domain (along with the outlines I created, if that is necessary/possible), so you can do whatever you want with them. (All trademarks referenced in the stories, of course, are still protected by law.) The makers of the NGSL report that "all of our corpus-derived word lists are public domain and available to you for free as long as you properly cite our work." I also received permission to use the "NGSL Stats & Frequencies to 34K" document in this project.
 
-**4.10. Note on glitchy early version of Anki deck:
+**4.10. Note on glitchy early version of Anki deck:**
 
 [This is sort of a "note to self" for future Anki file creation.] When I first created the Anki deck for an earlier version of ROPE, I copied and pasted the cells directly from Excel into Notepad, saved the Notepad file as an UTF-8 document, and then imported this document into Anki. This led to some odd issues (for instance, 4198 of the 4201 cards were imported, but "lab," "lamp," and "ingredient" were not; in addition, some cards had missing characters, such as missing quotation marks). Therefore, I went back and reread the instructions for importing Excel files into Anki (https://docs.google.com/document/d/12YE_FS6A9ANLTESJNtPP116ti4nNmCBghyoJBRtno_k/edit# ), and now I realize I must do the following for a successful import:
 
@@ -578,11 +583,11 @@ I release all of the stories I myself wrote into the public domain (along with t
 
 4. Import this UTF-8 file into Anki
  
-**4.11: A word of caution on editing the cards in the Anki deck:
+**4.11: A word of caution on editing the cards in the Anki deck:**
 
 If you add in a new outline for a card in the Anki deck, and that card is not due soon because you have already guessed it a number of times, I recommend going into the "Browse" section, selecting the ROPE 2-3 deck, and rescheduling the card so that it will be placed in the review queue with an interval in between 0 and 0 days (the default option). This will help you practice the new outline more frequently.
 
-**4.11. Am I the only person who has read this whole readme?
+**4.11. Am I the only person who has read this whole readme?**
 
 No—I read it too. :)
 
