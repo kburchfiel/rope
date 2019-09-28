@@ -47,48 +47,90 @@ Average keypresses per root word in ROPE 2.3:
 
 Words 1 to 100 (by frequency):
 ROPE 2.3 (at time it was originally published): 2.510
+
 Original outlines: 3.680
+
 Regular typing (e.g. QWERTY/Dvorak; includes extra keypresses for capital letters but not for the space bar): 3.54
+
 Words 1 to 500:
+
 ROPE 2.3: 3.122
+
 Original outlines: 4.804
+
 Regular typing: 4.97
+
 Words 1 to 1000:
+
 ROPE 2.3: 3.416
+
 Original outlines: 5.425 
+
 Regular typing: 5.60
+
 Words 1 to 2000:
+
 ROPE 2.3: 3.828
+
 Original outlines: 5.724
+
 Regular typing: 6.15
+
 Words 1 to 4000:
+
 ROPE 2.3: 4.224
+
 Original outlines: 6.389
+
 Regular typing: 6.62
+
+
 All words in ROPE:
+
 ROPE 2.3: 4.218
+
 Original outlines: 6.348 
+
 Regular typing: 6.59
+
+
 
 Number of 2+-stroke outlines per root words in ROPE 2.3:
 
+
+
 Words 1 to 100 (by frequency):
+
 ROPE 2.3 (at time it was originally published): 0
+
 Original outlines: 0
+
 Words 1 to 1000:
+
 ROPE 2.3: 0
+
 Original outlines: 39
+
 Words 1 to 2000:
+
 ROPE 2.3: 0
+
 Original outlines: 188
+
 Words 1 to 4000:
+
 ROPE 2.3: 0
+
 Original outlines: 852
+
 All words in ROPE:
+
 ROPE 2.3: 0
+
 Original outlines: 871
 
-	
+
+
 
 
 What’s new in ROPE 2.3:
