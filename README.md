@@ -45,89 +45,90 @@ ROPE's added-in outlines usually let you write common words with fewer keypresse
 Average keypresses per root word in ROPE 2.3:
 (This set of words does not include a couple of R-rated words in the NGSL top 4000. Also, there may be some errors in the count, although I did check for mistakes.)
 
+**Words 1 to 100 (by frequency):**
+
+ROPE 2.3 (at time it was originally published): **2.510**
+
+Original outlines: **3.680**
+
+Regular typing (e.g. QWERTY/Dvorak; includes extra keypresses for capital letters but not for the space bar): **3.54**
+
+**Words 1 to 500:
+
+ROPE 2.3: **3.122
+
+Original outlines: **4.804
+
+Regular typing: **4.97
+
+**Words 1 to 1000:
+
+ROPE 2.3: **3.416
+
+Original outlines: **5.425 
+
+Regular typing: **5.60
+
+**Words 1 to 2000:
+
+ROPE 2.3: **3.828
+
+Original outlines: **5.724
+
+Regular typing: **6.15
+
+**Words 1 to 4000:
+
+ROPE 2.3: **4.224
+
+Original outlines: **6.389
+
+Regular typing: **6.62
+
+
+**All words in ROPE:
+
+ROPE 2.3: **4.218
+
+Original outlines: **6.348 
+
+Regular typing: **6.59
+
+
+
+**Number of 2+-stroke outlines per root words in ROPE 2.3:
+
+
+
 Words 1 to 100 (by frequency):
-ROPE 2.3 (at time it was originally published): 2.510
 
-Original outlines: 3.680
+ROPE 2.3 (at time it was originally published): **0
 
-Regular typing (e.g. QWERTY/Dvorak; includes extra keypresses for capital letters but not for the space bar): 3.54
+Original outlines: **0
 
-Words 1 to 500:
+**Words 1 to 1000:
 
-ROPE 2.3: 3.122
+ROPE 2.3: **0
 
-Original outlines: 4.804
+Original outlines: **39
 
-Regular typing: 4.97
+**Words 1 to 2000:
 
-Words 1 to 1000:
+ROPE 2.3: **0
 
-ROPE 2.3: 3.416
+Original outlines: **188
 
-Original outlines: 5.425 
+**Words 1 to 4000:
 
-Regular typing: 5.60
+ROPE 2.3: **0
 
-Words 1 to 2000:
+Original outlines: **852
 
-ROPE 2.3: 3.828
+**All words in ROPE:
 
-Original outlines: 5.724
+ROPE 2.3: **0
 
-Regular typing: 6.15
-
-Words 1 to 4000:
-
-ROPE 2.3: 4.224
-
-Original outlines: 6.389
-
-Regular typing: 6.62
-
-
-All words in ROPE:
-
-ROPE 2.3: 4.218
-
-Original outlines: 6.348 
-
-Regular typing: 6.59
-
-
-
-Number of 2+-stroke outlines per root words in ROPE 2.3:
-
-
-
-Words 1 to 100 (by frequency):
-
-ROPE 2.3 (at time it was originally published): 0
-
-Original outlines: 0
-
-Words 1 to 1000:
-
-ROPE 2.3: 0
-
-Original outlines: 39
-
-Words 1 to 2000:
-
-ROPE 2.3: 0
-
-Original outlines: 188
-
-Words 1 to 4000:
-
-ROPE 2.3: 0
-
-Original outlines: 852
-
-All words in ROPE:
-
-ROPE 2.3: 0
-
-Original outlines: 871
+Original outlines: **871
 
 
 
