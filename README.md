@@ -10,7 +10,7 @@ Kenneth Burchfiel
 AMDG
 
 
-![Hastily made logo](https://github.com/kburchfiel/rope/blob/master/Hastily%20made%20logo.png)
+<img src="https://github.com/kburchfiel/rope/blob/master/Hastily%20made%20logo.png" alt="Hastily made logo" width="400"/>
 
 
 # # Links:
