@@ -573,11 +573,15 @@ In addition, the Excel file contains a list of outlines that I consider to be NI
 
 My apologies for this. I use Anki on an unscaled 4K monitor, so I have to make the text a lot larger than I otherwise would. You can change the font size and formatting of the deck through Anki, and there should be online FAQs available to help you out with that.
 
-**4.9. Copyright info:**
+**4.9. What is the purpose of the outlines poster, and should I use it as a learning resource?**
+
+The outlines poster is really just there for fun. I use the PNG version as a 4K desktop background, and I print out the PDF version onto 3 letter-sized pages as a physical poster. These posters are **not** updated very often, so over time they will become more and more outdated. Therefore, I would not recommend them as a serious learning reference.
+
+**4.10. Copyright info:**
 
 I release all of the stories I myself wrote into the public domain (along with the outlines I created, if that is necessary/possible), so you can do whatever you want with them. (All trademarks referenced in the stories, of course, are still protected by law.) The makers of the NGSL report that "all of our corpus-derived word lists are public domain and available to you for free as long as you properly cite our work." I also received permission to use the "NGSL Stats & Frequencies to 34K" document in this project.
 
-**4.10. Note on glitchy early version of Anki deck:**
+**4.11. Note on glitchy early version of Anki deck:**
 
 [This is sort of a "note to self" for future Anki file creation.] When I first created the Anki deck for an earlier version of ROPE, I copied and pasted the cells directly from Excel into Notepad, saved the Notepad file as an UTF-8 document, and then imported this document into Anki. This led to some odd issues (for instance, 4198 of the 4201 cards were imported, but "lab," "lamp," and "ingredient" were not; in addition, some cards had missing characters, such as missing quotation marks). Therefore, I went back and reread the instructions for importing Excel files into Anki (https://docs.google.com/document/d/12YE_FS6A9ANLTESJNtPP116ti4nNmCBghyoJBRtno_k/edit# ), and now I realize I must do the following for a successful import:
 
