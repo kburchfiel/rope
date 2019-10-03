@@ -15,6 +15,7 @@ AMDG
 
 # # Links:
 Visit the ROPE GitHub page to download the ROPE 2.3 spreadsheet, Anki deck, dictionary, and readme!  https://github.com/kburchfiel/rope 
+
 For videos I’ve made about Plover, along with videos about typing in general, visit my YouTube playlist at  https://www.youtube.com/playlist?list=PLYtyZPMUWeI_4i4pc0peBPGMfSV7C5Nxw 
 
 # # Intro and TL;DR
