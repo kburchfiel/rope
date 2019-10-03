@@ -1,11 +1,13 @@
 # ROPE
 Welcome to ROPE (Remembering Outlines in Plover more Easily), my system for learning and remembering Plover outlines! ROPE is now in version 2.3. This page includes download links to the four components of ROPE: the spreadsheet, the Anki deck, the corresponding dictionary, and the readme.  Also, for videos I’ve made about Plover, along with videos about typing in general, visit my YouTube playlist at  https://www.youtube.com/playlist?list=PLYtyZPMUWeI_4i4pc0peBPGMfSV7C5Nxw   . —Kenneth Burchfiel
-Readme for ROPE (Remembering Outlines in Plover more Easily) – version 2.3:
-A system for learning and remembering outlines for over 4,000 common English words
+
+
+# **Readme for ROPE (Remembering Outlines in Plover more Easily) – version 2.3:**
+**A system for learning and remembering outlines for over 4,000 common English words**
 
 Kenneth Burchfiel
 
-(Rope 2.3 was launched on 9/27/2019, and will probably be updated many times.)
+*(Rope 2.3 was launched on 9/27/2019, and will probably be updated many times.)*
 
 AMDG
 
