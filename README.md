@@ -482,7 +482,7 @@ When it is helpful, I also use –T to represent other endings. For instance, I ad
 
 When adding –T to the outline won’t work, or when –T is already taken, I like to use * as a “backup” modifier. In addition, I often add * to an original outline to produce a new outline that is an antonym of the original outline. I find that this strategy makes it easier to remember the new outline.
 
-**3.3.3.8** -le and ly considerations
+**3.3.3.8 -le and ly considerations**
 
 Many words have both "-le" or "-ral" and "-ly" derivative forms. For example, "nature" has both "natural" and "naturally" as derivatives. In these situations, I prefer to add -L to the root outline for the "-le/-ral" ending. For the "-ly" ending, you could simply add in asterisk to the outline with -L in it; however, to save a keypress, I often like to add in an * to the root word if this outline is available.
 
