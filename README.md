@@ -385,6 +385,8 @@ But not to worry—if you forget an outline, the stories can help you insert it ba
 
 I started with words that are already in the Plover Dictionary. However, I then added in additional outlines in order to save keypresses and strokes. Whether you use these additional outlines is totally up to you!
 
+Much more information on my preferences for new outlines is provided below.
+
 **3.2. Why did you choose so many new outlines?**
 
 Because I currently write steno on a keyboard, and not on a purpose-built steno machine, I wanted to be able to write all the words in ROPE 2.3 in just one stroke and in 5 keypresses or less. I figured that this would reduce fatigue. In addition, as a beginning user, I thought that creating shorter outlines could also improve my speed and accuracy.
@@ -410,7 +412,9 @@ Although many of my added-in outlines had little or nothing to do with the words
 
 **3.3.3.1. Shorter outlines for more frequent words**
 
-In general, I tried to assign shorter outlines to more common words in ROPE, and 5-stroke outlines to less common words, with the overall goal being to reduce the number of keypresses that you'll use in an average day of writing. (All of the outlines in the top 1000 have 4 or fewer keypresses.) Another benefit of starting with shorter outlines was that I could then use the words those outlines stood for as components of stories for longer outlines that included them. 
+One rule that I sat for myself when coming up with new outlines was that all outlines for root words in the top 1000 had to be 4 keypresses or less, and all other outlines in ROPE had to be 5 keypresses or less. This restriction has had a major impact on my outline choices.
+
+In general, I tried to assign shorter outlines (with 4 keypresses or fewer) to more common words in ROPE, and 5-keypress outlines to less common words, with the overall goal being to reduce the number of keypresses that you'll use in an average day of writing. Another benefit of starting with shorter outlines was that I could then use the words those outlines stood for as components of stories for longer outlines that included them. 
 
 **3.3.3.2. Different outline endings work better for different parts of speech**
 
@@ -478,23 +482,30 @@ When it is helpful, I also use –T to represent other endings. For instance, I ad
 
 When adding –T to the outline won’t work, or when –T is already taken, I like to use * as a “backup” modifier. In addition, I often add * to an original outline to produce a new outline that is an antonym of the original outline. I find that this strategy makes it easier to remember the new outline.
 
-**3.3.3.8. Intuitive outlines are preferable to non-intuitive ones**
+**3.3.3.8** -le and ly considerations
+
+Many words have both "-le" or "-ral" and "-ly" derivative forms. For example, "nature" has both "natural" and "naturally" as derivatives. In these situations, I prefer to add -L to the root outline for the "-le/-ral" ending. For the "-ly" ending, you could simply add in asterisk to the outline with -L in it; however, to save a keypress, I often like to add in an * to the root word if this outline is available.
+
+As an example, I use HOB for "nature" and HOBL for "natural." "Naturally" could be written as H*OBL (which adds an * to HOBL for "natural," but for the purpose of saving a keypress, I like to use H*OB for "naturally." (It's still worthwhile to add in H*OBL as an option for "naturally," though.)
+
+
+**3.3.3.9. Intuitive outlines are preferable to non-intuitive ones**
 
 Although I do believe that it’s not crucial for outlines to be intuitive, I acknowledge that, all else being equal, intuitive outlines are better fits than non-intuitive outlines (provided that the intuitive outlines still fit within my 4- and 5-keypress limits).
 
-**3.3.3.9. Outlines with -R and R-**
+**3.3.3.10. Outlines with -R and R-**
 
 If you have an outline that uses R-, especially if it’s a vowel-less outline, you should also consider adding in the same outline except with -R, and vice versa. That’s because it can be hard to remember which R to use, even with a mnemonic story that helps differentiate between them. In addition, I would recommend adding in an outline with both Rs in use, as your fingers may try to write both of them at the same time. I would also recommend against using outlines that differ only in the type of R they use to write two different words, although this still shows up in ROPE. You may also find it helpful to apply this concept to outlines that use one of the two Ps.
 
-**3.3.3.10. Preferred keys for outlines**
+**3.3.3.11. Preferred keys for outlines**
 
 Although the briefs in ROPE use every key but the number row, my preferred keys for briefs are those that don’t involve much horizontal finger travel: specifically, every key but the asterisk key, the number row, D, and Z. However, plenty of my briefs do use the asterisk key, since it’s a helpful tool for creating derivative outlines.
 
-**3.3.3.11. Does it work “in vivo”?**
+**3.3.3.12. Does it work “in vivo”?**
 
 An outline may look great on the spreadsheet, but only after it’s put into practice can you determine whether it works for you. I have made lots of changes to my original outline list after finding that some of the outlines I originally assigned to words were hard to write consistently. The largest example of this was the trouble I had with vowel-less outlines, which led me to replace many of these outlines with “vowelled” outlines.
 
-**3.3.3.12. Using outlines already mapped to other words**
+**3.3.3.13. Using outlines already mapped to other words**
 
 I don’t have too many qualms about using great outlines already mapped to less frequent words for more frequent words, particularly if I can remap the less frequent word to the same outline except with an asterisk added. For example, HOP is a great outline for verbs that usually maps to “hop,” a word ranked #3,999 in frequency. Because this outline is both very short and very easy to write, I remapped it to “clothe” (making “clothing” and “clothes” into 4-keypress outlines), and remapped “hop” to H*OP. Ultimately, there are only so many great outlines to go around, so I’m happy to repurpose them for more frequent words.
 
