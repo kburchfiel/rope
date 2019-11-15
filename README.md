@@ -16,11 +16,19 @@ AMDG
 
 
 # # Links:
+
 Visit the ROPE GitHub page to download the ROPE 2.3 spreadsheet, Anki deck, dictionary, and readme!  https://github.com/kburchfiel/rope 
 
 For videos I’ve made about Plover, along with videos about typing in general, visit my YouTube playlist at  https://www.youtube.com/playlist?list=PLYtyZPMUWeI_4i4pc0peBPGMfSV7C5Nxw 
 
+
+# # Important update (11/14/2019) # #
+
+Note: ROPE 2.3 now includes a deck and Excel sheet for phrases (multi-word outlines)! This deck/sheet are still under construction and will likely be expanded quite a bit. The information below refers to the original single-word deck and Excel sheet. I plan to update the readme to better incorporate this new deck and sheet.
+
+
 # # Intro and TL;DR
+
 ROPE is a guide to learning and recalling Plover outlines for about 4,200 common English words. It does this in two ways: first, it relies on Anki's spaced repetition system to help you solidify the outlines in your memory. Second, it includes mnemonic "stories" to help you remember a sizable chunk of the outlines. These stories, around 2,800 in total as of 6/30/2019, serve to connect the outlines to their corresponding word by including words that are similar to the components of the outlines.
 
 ROPE 2.3 also includes many added-in outlines (around 3,150 as of 6/30/2019) that serve as alternatives to the outlines in the standard Plover dictionary. They're meant to let you write words in fewer keypresses and/or strokes, but are completely optional, and standard outlines for every word are provided when available. By using these added-in outlines (along with pre-existing outlines), you can write all of the top 4,000 English words (by frequency, according to one frequency list) in just one stroke, and in 5 keypresses or less. In addition, you'll be able to to write the top 1,000 English words in 4 keypresses or less.
