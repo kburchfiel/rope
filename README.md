@@ -610,9 +610,9 @@ I release all of the stories I myself wrote into the public domain (along with t
 
 2. Open this Unicode text file in Notepad (rather than copy and paste the text from the ROPE Excel file directly into Notepad). Before opening the file, change the "encoding" to Unicode within the dropdown menu.
 
-3. Save this Notepad file as a UTF-8 file by changing the encoding to UTF-8 at the bottom, then saving it as a .txt file once again.
+3. Save this Notepad file as a UTF-8 file by changing the encoding to UTF-8 at the bottom, then saving it as a .txt file once again. Change the name from the original .txt file as well so that you'll know which one to import into Anki.
 
-4. Import this UTF-8 file into Anki
+4. Import this UTF-8 file into Anki. Note: the error message "the first field of the note type must be mapped" may occur if, during the import process, you do not map any field to the first field (Front) of the ROPE note type. To solve this, map the word/phrase column to "front" instead of to the word/phrase field. (Another solution could potentially be to delete the "front" field, but that would probably delete all of the words from the English ROPE 2.3 deck! Therefore, for now, I'll simply map the word/phrase column to "front.") 
  
 **4.11: A word of caution on editing the cards in the Anki deck:**
 
