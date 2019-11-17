@@ -621,7 +621,9 @@ I release all of the stories I myself wrote into the public domain (along with t
 3. Save this Notepad file as a UTF-8 file by changing the encoding to UTF-8 at the bottom, then saving it as a .txt file once again. Change the name from the original .txt file as well so that you'll know which one to import into Anki.
 
 4. Import this UTF-8 file into Anki. Note: the error message "the first field of the note type must be mapped" may occur if, during the import process, you do not map any field to the first field (Front) of the ROPE note type. To solve this, map the word/phrase column to "front" instead of to the word/phrase field. (Another solution could potentially be to delete the "front" field, but that would probably delete all of the words from the English ROPE 2.3 deck! Therefore, for now, I'll simply map the word/phrase column to "front.") 
- 
+
+Even with all these steps, after enough practice, you should be able to import a set of cards from Excel into Anki in less than 4 minutes.
+
 **4.11: A word of caution on editing the cards in the Anki deck:**
 
 If you add in a new outline for a card in the Anki deck, and that card is not due soon because you have already guessed it a number of times, I recommend going into the "Browse" section, selecting the ROPE 2-3 deck, and rescheduling the card so that it will be placed in the review queue with an interval in between 0 and 0 days (the default option). This will help you practice the new outline more frequently.
