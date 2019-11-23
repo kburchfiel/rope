@@ -606,11 +606,61 @@ My apologies for this. I use Anki on an unscaled 4K monitor, so I have to make t
 
 The outlines poster is really just there for fun. I use the PNG version as a 4K desktop background, and I print out the PDF version onto 3 letter-sized pages as a physical poster. These posters are **not** updated very often, so over time they will become more and more outdated. Therefore, I would not recommend them as a serious learning reference.
 
-**4.10. Copyright info:**
+
+
+
+**5. The Phrases Deck**
+
+5.1. How the phrases deck was made:
+
+5.1.1 I visited the wonderful site Phrases in English (http://phrasesinenglish.org/), which allows you to search through an older version of the British National Corpus to find words and phrases. (From the PIE website: "Phrases in English" (PIE) incorporates data from the British National Corpus, but is not affiliated with it. This site was developed by William H. Fletcher of the US Naval Academy in consultation with Michael Stubbs of the University of Trier. Development was funded in part by the Naval Academy Research Council.  )
+
+5.1.2. I first used the PIE site’s N-Grams Simple Search to build a list of the most common 5,000 2-word English phrases (according to the site), then copied and pasted these results into a spreadsheet. I then ran searches for the most common 3- to 8-word phrases and added any that were at least as common as the 5,000th most common 2-word phrase to my spreadsheet.
+
+5.1.3. After building this spreadsheet, my goal was to create a list of 1,000 common English phrases that could be incorporated into ROPE. To build this list, I had a number of criteria:
+
+5.1.3.1. Phrases would be included into my list in order of frequency, with the most frequent phrases getting priority. (Note: some phrases appeared multiple times within the list, and it would have been ideal to add up their corpus occurrences to create a more exact frequency list. However, I instead simply kept the more common occurrence of the phrases in my final list.)
+
+5.1.3.2. Phrases were always or often removed if:
+
+1. They were actually a single word after reformatting (see below)
+
+2. They contained a proper noun
+
+3. They contained a set of characters that represented a symbol or did not represent a full word (such as “’ve got”).
+
+4. They started with “a,” “an,” or “the,” “his,” or “her” (especially if they were followed by a noun), or started with “to” followed by a verb)
+
+5. They included a number (which was represented by a “#”
+
+6. I didn’t feel that they merited inclusion in the list (for example, “see p”; “and er”; “voice over”; “secretary of”; “on the other,” “other hand,” and “the other hand” (because “on the other hand” was being included); “three years”; “in studio”; ”and social”;
+
+7. It represented a single noun (e.g. “secretary of state” and “prime minister”).
+
+8. It was merely part of another phrase in the list that would account for all or almost all of the uses of that phrase. For example, I removed “end of the” because “the end of the” was also in the list, and there wouldn’t be too many times that write “end of the” without a “the” preceding it.
+
+5.1.4. I reformatted some rows of the list to convert entries into actual words. For instance, I removed the spaces that had been added in between words with contracted forms. I also needed to capitalize the word “I” when it appeared in phrases. In addition, I “Americanized” the text where needed (sorry Brits!), e.g. by replacing “centre” with “center”). I also replaced “per cent” in phrases with “percent.”
+
+5.1.5. Oddly enough, Excel had trouble performing searches of these phrases, and I believe that the issue lay with how the spaces between words were written in the PIE website. The best solution that I was aware of at the time was to rewrite the words manually within Excel.
+
+5.1.6. It was also necessary to remove duplicate entries. In doing so, I kept the entry with the higher-ranked frequency.
+
+5.1.7. Ultimately, I came up with a list of about 1,000 phrases that I obtained through the Phrases in English website. However, it’s important to note that not all phrases within the BNC are actually counted as such. Instead, some phrases of multiple words are instead counted as single words—which were termed “multiwords.” (See http://www.natcorp.ox.ac.uk/docs/URG.xml?ID=codes  ). 
+
+	Therefore, in building my list, I also included multiwords shown in the above webpage that had at least as many occurrences in the corpus as did the least common phrases (“out for” and “about to,” which both had 4545 occurrences) in my original phrase list at the time. If I thought a given multiword had a chance of being frequent enough to include in my list, I checked its frequency using the PIE website’s search tool. I am quite confident that I included all phrases in the multiword list that deserved to be in ROPE’s phrases deck.
+
+5.1.8. Finally, I gave all of these words a frequency rank, and used that rank to order the cards for import into Anki.
+
+5.2. Choosing outlines
+
+[to be expanded]
+
+
+**7.1. Copyright info:**
 
 I release all of the stories I myself wrote into the public domain (along with the outlines I created, if that is necessary/possible), so you can do whatever you want with them. (All trademarks referenced in the stories, of course, are still protected by law.) The makers of the NGSL report that "all of our corpus-derived word lists are public domain and available to you for free as long as you properly cite our work." I also received permission to use the "NGSL Stats & Frequencies to 34K" document in this project.
 
-**4.11. Note on glitchy early version of Anki deck:**
+**7.2. Note on glitchy early version of Anki deck:**
 
 [This is sort of a "note to self" for future Anki file creation.] When I first created the Anki deck for an earlier version of ROPE, I copied and pasted the cells directly from Excel into Notepad, saved the Notepad file as an UTF-8 document, and then imported this document into Anki. This led to some odd issues (for instance, 4198 of the 4201 cards were imported, but "lab," "lamp," and "ingredient" were not; in addition, some cards had missing characters, such as missing quotation marks). Therefore, I went back and reread the instructions for importing Excel files into Anki (https://docs.google.com/document/d/12YE_FS6A9ANLTESJNtPP116ti4nNmCBghyoJBRtno_k/edit# ), and now I realize I must do the following for a successful import:
 
@@ -624,11 +674,11 @@ I release all of the stories I myself wrote into the public domain (along with t
 
 Even with all these steps, after enough practice, you should be able to import a set of cards from Excel into Anki in less than 4 minutes.
 
-**4.11: A word of caution on editing the cards in the Anki deck:**
+**7.3: A word of caution on editing the cards in the Anki deck:**
 
 If you add in a new outline for a card in the Anki deck, and that card is not due soon because you have already guessed it a number of times, I recommend going into the "Browse" section, selecting the ROPE 2-3 deck, and rescheduling the card so that it will be placed in the review queue with an interval in between 0 and 0 days (the default option). This will help you practice the new outline more frequently.
 
-**4.11. Am I the only person who has read this whole readme?**
+**7.4. Am I the only person who has read this whole readme?**
 
 No—I read it too. :)
 
