@@ -615,7 +615,7 @@ The outlines poster is really just there for fun. I use the PNG version as a 4K 
 
 5.1.1 I visited the wonderful site Phrases in English (http://phrasesinenglish.org/), which allows you to search through an older version of the British National Corpus to find words and phrases. (From the PIE website: "Phrases in English" (PIE) incorporates data from the British National Corpus, but is not affiliated with it. This site was developed by William H. Fletcher of the US Naval Academy in consultation with Michael Stubbs of the University of Trier. Development was funded in part by the Naval Academy Research Council.  )
 
-5.1.2. I first used the PIE site’s N-Grams Simple Search to build a list of the most common 5,000 2-word English phrases (according to the site), then copied and pasted these results into a spreadsheet. I then ran searches for the most common 3- to 8-word phrases and added any that were at least as common as the 5,000th most common 2-word phrase to my spreadsheet.
+5.1.2. I first used the PIE site’s N-Grams Simple Search to build a list of the most common 5,000 2-word English phrases (according to the site), then copied and pasted these results into a spreadsheet. I then ran searches for the most common 3- to 8-word phrases and added any that were at least as common as the 5,000th most common 2-word phrase to my spreadsheet. After adding all these words to the spreadsheet, I sorted it by the number of occurrences of each word and ranked the words accordingly. These rankings can be seen within the “Rank within original list of 5000 phrases (that did not include multiword phrases)” column.
 
 5.1.3. After building this spreadsheet, my goal was to create a list of 1,000 common English phrases that could be incorporated into ROPE. To build this list, I had a number of criteria:
 
@@ -639,6 +639,8 @@ The outlines poster is really just there for fun. I use the PNG version as a 4K 
 
 8. It was merely part of another phrase in the list that would account for all or almost all of the uses of that phrase. For example, I removed “end of the” because “the end of the” was also in the list, and there wouldn’t be too many times that write “end of the” without a “the” preceding it.
 
+Note that due to these removals, the numbers in the “Rank within original list of 5000 phrases (that did not include multiword phrases)” column are not contiguous.
+
 5.1.4. I reformatted some rows of the list to convert entries into actual words. For instance, I removed the spaces that had been added in between words with contracted forms. I also needed to capitalize the word “I” when it appeared in phrases. In addition, I “Americanized” the text where needed (sorry Brits!), e.g. by replacing “centre” with “center”). I also replaced “per cent” in phrases with “percent.”
 
 5.1.5. Oddly enough, Excel had trouble performing searches of these phrases, and I believe that the issue lay with how the spaces between words were written in the PIE website. The best solution that I was aware of at the time was to rewrite the words manually within Excel.
@@ -647,13 +649,42 @@ The outlines poster is really just there for fun. I use the PNG version as a 4K 
 
 5.1.7. Ultimately, I came up with a list of about 1,000 phrases that I obtained through the Phrases in English website. However, it’s important to note that not all phrases within the BNC are actually counted as such. Instead, some phrases of multiple words are instead counted as single words—which were termed “multiwords.” (See http://www.natcorp.ox.ac.uk/docs/URG.xml?ID=codes  ). 
 
-	Therefore, in building my list, I also included multiwords shown in the above webpage that had at least as many occurrences in the corpus as did the least common phrases (“out for” and “about to,” which both had 4545 occurrences) in my original phrase list at the time. If I thought a given multiword had a chance of being frequent enough to include in my list, I checked its frequency using the PIE website’s search tool. I am quite confident that I included all phrases in the multiword list that deserved to be in ROPE’s phrases deck.
+Therefore, in building my list, I also included multiwords shown in the above webpage that had at least as many occurrences in the corpus as did the least common phrases (“out for” and “about to,” which both had 4545 occurrences) in my original phrase list at the time. If I thought a given multiword had a chance of being frequent enough to include in my list, I checked its frequency using the PIE website’s search tool. I am quite confident that I included all phrases in the multiword list that deserved to be in ROPE’s phrases deck.
+
+To further complicate matters, there were some occasions in which a phrase was listed both as a multiword and as a regular phrase. In these cases, my preference was to choose the entry that had the higher number of occurrences in the corpus used by the Phrases in English website.
 
 5.1.8. Finally, I gave all of these words a frequency rank, and used that rank to order the cards for import into Anki.
 
 5.2. Choosing outlines
 
-[to be expanded]
+
+5.2.1. Some phrases were covered by one or more original outlines, in which case I listed one of those outlines in the spreadsheet. However, I also created a number of outlines for these phrases as well. 
+
+Each phrase that I added in was either phonetic in nature (or at least somewhat phonetic), or based on an (often non-phonetic) outline addition for a word in the single-word deck. (These two strategies could also have been blended together for some outlines.) Therefore, if a phrase outline does not appear intuitive at all, it is most likely based on a non-intuitive outline in my single-word deck. I often added in non-intuitive elements to these non-phonetic outlines as well, given that there were only so many outlines available.
+
+If a phrase used a word in my single-word deck to which I mapped a non-phonetic outline, I often preferred to create a phrase outline that incorporated that non-phonetic outline. This is because I would otherwise need to remember two different forms of that word for different contexts.
+
+I also preferred to create phrases for outlines that were are simply groupings of the outlines for the single words that make up the phrase. (For example, TPH- for “in” plus –T for “the” equals TPH-T for “in the.” However, such outlines are often mapped to other words. In addition, these outlines aren’t always very ergonomic. Therefore, such outlines represent only a minority of my phrase outlines.
+
+5.2.2. I liked for the order of elements in a phrase to match the order of elements in an outline. For example, I prefer KU for "can you" because the K (for "can") and the U (for "you") come in the same order as the "can" and "you" in "can you." I like to use the asterisk to "reverse" the output of an outline where needed. For instance, I use K*U for "you can," as the asterisk "reverses" the order of "can you," resulting in "you can." I believe that this convention makes some phrase outlines easier to remember.
+
+5.2.3. Asterisks can also be used to convert an outline for a phrase into an outline for a contraction, and vice versa. For instance, I use THEL for "they'll," so I added inTH*EL (TH*EL plus an asterisk) for "they will."
+
+5.2.4. I liked to add in options for “an” versions of phrases that ended in “a.” These outlines were often similar to the “a” version of the phrase, except for a modification to represent the “an.” These modifications often entailed (1 an asterisk; (2 a –PB; or (3 a –P (which is often more ergonomic than a –PB).
+
+5.3. Important notes regarding the outlines deck
+
+5.3.1. Unlike for the single words in ROPE 2.3, I will not be noting whether an added-in outline replaces an original outline, so please take caution when using these new outlines. (To determine whether an addition overwrites an outline for another word, you can always open up the original dictionary and enter in the outline. To see what outline I added in for a word whose outline was overwritten, you can open up my additions dictionary and enter in the word.) 
+
+5.3.2. I also do not plan to add in mnemonic stories for these outlines. In addition, I generally won't be explaining the etymology of added-in outlines, although some of them derive from added-in outlines for the single words deck. (Outlines may also be derivatives of other outlines in the phrases deck.) However, if a phrase outline is based on an outline for a phrase that is not in the phrase list, I will try to make note of that outline in my notes column.
+
+5.3.3. In contrast to the single-word added-in outlines list, there is no limit to how many characters an outline can contain (although I still have a preference for outlines with fewer keypresses). However, for a phrase outline to be included in these lists, it must have only one stroke.
+
+5.3.4. I did not always note what derivative forms of an outline I also added in, so feel free to play around with these outlines and add in your own derivatives as well.
+
+5.3.5. Note that there will be a number of situations in which using a phrase outline involves more keypresses than would using individual word outlines. However, because you save strokes through the use of the phrase outline, I am confident that with practice, using the phrase outlines will ultimately prove to be faster.
+
+
 
 
 **7.1. Copyright info:**
