@@ -1,5 +1,5 @@
 # ROPE
-Welcome to ROPE (Remembering Outlines in Plover more Easily), my system for learning and remembering Plover outlines! ROPE is now in version 2.3. This page includes download links to the four components of ROPE: the spreadsheet, the Anki deck, the corresponding dictionary, and the readme.  Also, for videos I’ve made about Plover, along with videos about typing in general, visit my YouTube playlist at  https://www.youtube.com/playlist?list=PLYtyZPMUWeI_4i4pc0peBPGMfSV7C5Nxw   . —Kenneth Burchfiel
+Welcome to ROPE (Remembering Outlines in Plover more Easily), my system for learning and remembering Plover outlines! ROPE is now in version 2.3. This page includes download links to the four components of ROPE: the spreadsheet, the Anki decks, the corresponding dictionary, and the readme.  Also, for videos I’ve made about Plover, along with videos about typing in general, visit my YouTube playlist at  https://www.youtube.com/playlist?list=PLYtyZPMUWeI_4i4pc0peBPGMfSV7C5Nxw   . —Kenneth Burchfiel
 
 
 # **Readme for ROPE (Remembering Outlines in Plover more Easily) – version 2.3:**
@@ -22,10 +22,7 @@ Visit the ROPE GitHub page to download the ROPE 2.3 spreadsheet, Anki deck, dict
 For videos I’ve made about Plover, along with videos about typing in general, visit my YouTube playlist at  https://www.youtube.com/playlist?list=PLYtyZPMUWeI_4i4pc0peBPGMfSV7C5Nxw 
 
 
-# # Important update (11/14/2019) # #
-
-Note: ROPE 2.3 now includes a deck and Excel sheet for phrases (multi-word outlines)! This deck/sheet are still under construction and will likely be expanded quite a bit. The information below refers to the original single-word deck and Excel sheet. I plan to update the readme to better incorporate this new deck and sheet.
-
+# # Part 1: ROPE's Single-Word Deck
 
 # # Intro and TL;DR
 
@@ -33,7 +30,7 @@ ROPE is a guide to learning and recalling Plover outlines for about 4,200 common
 
 ROPE 2.3 also includes many added-in outlines (around 3,150 as of 6/30/2019) that serve as alternatives to the outlines in the standard Plover dictionary. They're meant to let you write words in fewer keypresses and/or strokes, but are completely optional, and standard outlines for every word are provided when available. By using these added-in outlines (along with pre-existing outlines), you can write all of the top 4,000 English words (by frequency, according to one frequency list) in just one stroke, and in 5 keypresses or less. In addition, you'll be able to to write the top 1,000 English words in 4 keypresses or less.
 
-If you'd like to try using ROPE to learn and practice outlines, download both the Excel document and the Anki file. (If you don't have Anki on your computer, download it for free from the website.) The Anki file and the Excel document have the same material; Anki is just a flashcard program that lets you keep track of your learning, and the Excel file is useful to have as a reference. Once you've gone through the Learn Plover! exercises, you can start using Anki to learn new outlines, even if you're very new to Plover.
+If you'd like to try using ROPE to learn and practice outlines, clone these materials and save them to your computer. (If you don't have Anki on your computer, download it for free from the website.) The Anki file and the Excel document have much of the same material; Anki is just a flashcard program that lets you keep track of your learning, and the Excel file is useful to have as a reference. (However, there is not a corresponding flashcard set for the command strokes listed in the ROPE spreadsheet.) Once you've gone through the Learn Plover! exercises, you can start using Anki to learn new outlines, even if you're very new to Plover.
 
 This system is meant to be super-customizable, so you can add in or change stories, outlines, and words however you please. 
 
@@ -224,7 +221,7 @@ One final note: before exporting your Anki deck (e.g. to back it up), I think yo
 
 
 # #1.4: Is a dictionary with the ROPE outlines available?
-Yes! I have now made public a custom Plover dictionary ("ROPE 2-3 additions and more") that contains all of the outlines for the 3,100+ additions that ROPE 2-3 suggests, along with lots of misstroke entries that will make these outlines easier to adopt. The dictionary can be found on the Rope GitHub page.
+Yes! I have now made public a custom Plover dictionary ("ROPE 2-3 additions and more") that contains all of the outlines for many additions that ROPE 2-3 suggests, along with lots of misstroke entries that will make these outlines easier to adopt. The dictionary can be found on the Rope GitHub page.
 	This dictionary is not perfect; for example, it contains lots of "outdated" added-in outlines that have since been replaced with new additions. In addition, if you don't wish to use all of the added-in outlines in ROPE, I wouldn't necessarily recommend using this dictionary, as it remaps a number of pre-existing outlines to new words. A further issue with this dictionary is that new outlines are continuing to be developed, so any download of this dictionary will become outdated over time. (However, I will continue to upload updates of this dictionary.)
 	Finally, the version of the default Plover dictionary (main.json) that I use may differ significantly from a more recent version of the main Plover dictionary. This means that the "ROPE 2-3 additions and more" dictionary may interact differently with a newer copy of the main Plover dictionary.
 	However, if you wish to use all of the new outlines suggested in ROPE, this dictionary may save you a lot of time. And if it causes any trouble, you can always delete it.
@@ -607,13 +604,11 @@ My apologies for this. I use Anki on an unscaled 4K monitor, so I have to make t
 The outlines poster is really just there for fun. I use the PNG version as a 4K desktop background, and I print out the PDF version onto 3 letter-sized pages as a physical poster. These posters are **not** updated very often, so over time they will become more and more outdated. Therefore, I would not recommend them as a serious learning reference.
 
 
-
-
-**5. The Phrases Deck**
+# # Part 2: The Phrases Deck and Commands Outlines
 
 5.1. How the phrases deck was made:
 
-5.1.1 I visited the wonderful site Phrases in English (http://phrasesinenglish.org/), which allows you to search through an older version of the British National Corpus to find words and phrases. (From the PIE website: ""Phrases in English" (PIE) incorporates data from the British National Corpus, but is not affiliated with it. This site was developed by William H. Fletcher of the US Naval Academy in consultation with Michael Stubbs of the University of Trier. Development was funded in part by the Naval Academy Research Council."  )
+5.1.1 I visited the wonderful site Phrases in English (http://phrasesinenglish.org/), which allows you to search through an older version of the British National Corpus to find words and phrases. (From the PIE website: “"Phrases in English" (PIE) incorporates data from the British National Corpus, but is not affiliated with it. This site was developed by William H. Fletcher of the US Naval Academy in consultation with Michael Stubbs of the University of Trier. Development was funded in part by the Naval Academy Research Council.” )
 
 5.1.2. I first used the PIE site’s N-Grams Simple Search to build a list of the most common 5,000 2-word English phrases (according to the site), then copied and pasted these results into a spreadsheet. I then ran searches for the most common 3- to 8-word phrases and added any that were at least as common as the 5,000th most common 2-word phrase to my spreadsheet. After adding all these words to the spreadsheet, I sorted it by the number of occurrences of each word and ranked the words accordingly. These rankings can be seen within the “Rank within original list of 5000 phrases (that did not include multiword phrases)” column.
 
@@ -633,11 +628,11 @@ The outlines poster is really just there for fun. I use the PNG version as a 4K 
 
 5. They included a number (which was represented by a “#”
 
-6. I didn’t feel that they merited inclusion in the list (for example, “see p”; “and er”; “voice over”; “secretary of”; “on the other,” “other hand,” and “the other hand” (because “on the other hand” was being included); “three years”; “in studio”; ”and social”;
+6. I didn’t feel that they merited inclusion in the list (for example, “see p”; “and er”; “voice over”; “secretary of”; “on the other,” “other hand,” and “the other hand” (because “on the other hand” was being included); “three years”; “in studio”; ”and social”).
 
 7. It represented a single noun (e.g. “secretary of state” and “prime minister”).
 
-8. It was merely part of another phrase in the list that would account for all or almost all of the uses of that phrase. For example, I removed “end of the” because “the end of the” was also in the list, and there wouldn’t be too many times that write “end of the” without a “the” preceding it.
+8. It was merely part of another phrase in the list that would account for all or almost all of the uses of that phrase. For example, I removed “as part” because “as part of the” was also in the list, and there wouldn’t be too many times that I would write “as part” without a “the” following it.
 
 Note that due to these removals, the numbers in the “Rank within original list of 5000 phrases (that did not include multiword phrases)” column are not contiguous.
 
@@ -657,10 +652,9 @@ To further complicate matters, there were some occasions in which a phrase was l
 
 5.2. Choosing outlines
 
-
 5.2.1. Some phrases were covered by one or more original outlines, in which case I listed one of those outlines in the spreadsheet. However, I also created a number of outlines for these phrases as well. 
 
-Each phrase that I added in was either phonetic in nature (or at least somewhat phonetic), or based on an (often non-phonetic) outline addition for a word in the single-word deck. (These two strategies could also have been blended together for some outlines.) Therefore, if a phrase outline does not appear intuitive at all, it is most likely based on a non-intuitive outline in my single-word deck. I often added in non-intuitive elements to these non-phonetic outlines as well, given that there were only so many outlines available.
+Each phrase that I added in was either phonetic in nature (or at least somewhat phonetic), or based on an (often non-phonetic) outline addition for a word in the single-word deck. (These two strategies could also have been blended together for some outlines.) Therefore, if a phrase outline does not appear intuitive at all, it is most likely based on a non-intuitive outline in my single-word deck. I often added in non-intuitive elements to these phonetic and non-phonetic outlines as well, given that there were only so many outlines available.
 
 If a phrase used a word in my single-word deck to which I mapped a non-phonetic outline, I often preferred to create a phrase outline that incorporated that non-phonetic outline. This is because I would otherwise need to remember two different forms of that word for different contexts.
 
@@ -684,6 +678,9 @@ I also preferred to create phrases for outlines that were are simply groupings o
 
 5.3.5. Note that there will be a number of situations in which using a phrase outline involves more keypresses than would using individual word outlines. However, because you save strokes through the use of the phrase outline, I am confident that with practice, using the phrase outlines will ultimately prove to be faster.
 
+** 6: Command Outlines in ROPE **
+
+ROPE also has a series of command outlines listed in one of the sheets of the spreadsheet. You are welcome to try these command strokes out. I don't plan to create a corresponding flashcard deck, since there are not as many briefs to learn—and practicing the outlines should allow you to learn them well enough.
 
 
 
