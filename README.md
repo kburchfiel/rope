@@ -622,17 +622,19 @@ The outlines poster is really just there for fun. I use the PNG version as a 4K 
 
 2. They contained a proper noun
 
-3. They contained a set of characters that represented a symbol or did not represent a full word (such as “’ve got”).
+3. They contained a set of characters that represented a symbol or did not represent a full word (such as “’ve got”)
 
 4. They started with “a,” “an,” or “the,” “his,” or “her” (especially if they were followed by a noun), or started with “to” followed by a verb)
 
-5. They included a number (which was represented by a “#”
-
+5. They included a number represented by a “#,” or included a written number and a noun (e.g. "two years"; "the three")
+,
 6. I didn’t feel that they merited inclusion in the list (for example, “see p”; “and er”; “voice over”; “secretary of”; “on the other,” “other hand,” and “the other hand” (because “on the other hand” was being included); “three years”; “in studio”; ”and social”).
 
 7. It represented a single noun (e.g. “secretary of state” and “prime minister”).
 
 8. It was merely part of another phrase in the list that would account for all or almost all of the uses of that phrase. For example, I removed “as part” because “as part of the” was also in the list, and there wouldn’t be too many times that I would write “as part” without a “the” following it.
+
+9. It was a plural/singlular form of another phrase already in the ROPE list
 
 Note that due to these removals, the numbers in the “Rank within original list of 5000 phrases (that did not include multiword phrases)” column are not contiguous.
 
