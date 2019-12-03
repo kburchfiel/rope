@@ -503,7 +503,11 @@ As an example, I use HOB for "nature" and HOBL for "natural." "Naturally" could 
 
 **3.3.3.9. Intuitive outlines are preferable to non-intuitive ones**
 
-Although I do believe that it’s not crucial for outlines to be intuitive, I acknowledge that, all else being equal, intuitive outlines are better fits than non-intuitive outlines (provided that the intuitive outlines still fit within my 4- and 5-keypress limits).
+Although I do believe that it’s not crucial for outlines to be intuitive, I acknowledge that, all else being equal, intuitive outlines are usually preferable to non-intuitive outlines (provided that the intuitive outlines still fit within my 4- and 5-keypress limits). Intuitive outlines are easier to learn, and it's also possible that they are faster to write (although this speed advantage may decrease or disappear once a non-intuitive outline is practiced sufficiently).
+
+I also admit that I underestimated the value of intuitive outlines in the past. Therefore, I have made a number of changes to my outlines deck in order to replace non-intuitive outlines with more intuitive outlines. (I say "more" intuitive because my idea of an intuitive outline is pretty liberal; an outline that begins with the same letter as or has some phonetic similarity to the word it represents will often be considered "phonetic" in my book.)
+
+Note that I use two columns in my single-words deck spreadsheet to track the number of non-intuitive outlines and non-intuitive vowelless outlines that it contains. I am quite sure that both of these totals have decreased since I originally published ROPE 2-2.
 
 **3.3.3.10. Outlines with -R and R-**
 
