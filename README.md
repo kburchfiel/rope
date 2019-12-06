@@ -1,12 +1,14 @@
 # Important! Read before downloading:
 
-**I am currently making major changes to my ROPE outlines list. My plan is to reduce the number of non-intuitive outlines from 1900 or so to below 421. Once I have finished this project, I will release ROPE 3.0.**
+**I am currently making major changes to my ROPE single-word outlines list. My plan is to reduce the number of non-intuitive outlines from 1900 or so to below 421. Once I have finished this project, I will release ROPE 3.0.**
 
 **ROPE 3.0 is a work in progress and may remain so until the end of January 2020. Therefore, you may wish to wait to download ROPE until 3.0 is released. Once ROPE 3.0 is ready for release, I will remove "Work in Progress" from the document's title, and will also add corresponding Anki decks.**
 
 **Thank you for your patience with these outline changes, which I believe will ultimately result in an easier learning experience--and possibly a faster writing experience as well!**
 
-To make these changes, I first went through my list of single-word outlines and identified outlines that were not at all intuitive. I am now going through this list from the most frequent words to the least frequent ones and changing many of these outlines so that they are at least somewhat intuitive. (Examples of "somewhat intuitive" outlines would include outlines that (1 start with the same letter as the words they represent, or (2 have some other phonetic similarity to the words. These outlines often still include non-intuitive components, such as letters not found in the original word. An outline's first letter may be different from an outline's first key; for instance, an outline that starts with "TPH" could be considered as starting with the letter T *or* the letter N (to which TPH- maps).
+To make these changes, I first went through my list of single-word outlines and identified outlines that were not at all intuitive. I am now going through this list from the most frequent words to the least frequent ones and changing many of these outlines so that they are at least somewhat intuitive. 
+
+(Examples of "somewhat intuitive" outlines would include outlines that (1 start with the same letter as the words they represent, or (2 have some other phonetic similarity to the words. These outlines often still include non-intuitive components, such as letters not found in the original word. An outline's first letter may be different from an outline's first key; for instance, an outline that starts with "TPH" could be considered as starting with the letter T *or* the letter N (to which TPH- maps).)
 
 # ROPE
 Welcome to ROPE (Remembering Outlines in Plover more Easily), my system for learning and remembering Plover outlines! ROPE is now in version 2.3. This page includes download links to the four components of ROPE: the spreadsheet, the Anki decks, the corresponding dictionary, and the readme.  Also, for videos I’ve made about Plover, along with videos about typing in general, visit my YouTube playlist at  https://www.youtube.com/playlist?list=PLYtyZPMUWeI_4i4pc0peBPGMfSV7C5Nxw   . —Kenneth Burchfiel
