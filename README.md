@@ -6,10 +6,6 @@
 
 **Thank you for your patience with these outline changes, which I believe will ultimately result in an easier learning experience--and possibly a faster writing experience as well!**
 
-To make these changes, I first went through my list of single-word outlines and identified outlines that were not at all intuitive. I am now going through this list from the most frequent words to the least frequent ones and changing many of these outlines so that they are at least somewhat intuitive. 
-
-(Examples of "somewhat intuitive" outlines would include outlines that (1 start with the same letter as the words they represent, or (2 have some other phonetic similarity to the words. These outlines often still include non-intuitive components, such as letters not found in the original word. An outline's first letter may be different from an outline's first key; for instance, an outline that starts with "TPH" could be considered as starting with the letter T *or* the letter N (to which TPH- maps).)
-
 # ROPE
 Welcome to ROPE (Remembering Outlines in Plover more Easily), my system for learning and remembering Plover outlines! ROPE is now in version 2.3. This page includes download links to the four components of ROPE: the spreadsheet, the Anki decks, the corresponding dictionary, and the readme.  Also, for videos I’ve made about Plover, along with videos about typing in general, visit my YouTube playlist at  https://www.youtube.com/playlist?list=PLYtyZPMUWeI_4i4pc0peBPGMfSV7C5Nxw   . —Kenneth Burchfiel
 
@@ -476,23 +472,32 @@ In addition, I also tried to give similar words similar outlines so as to reduce
 
 As noted above, I prefer to match the root version of an outline with the root version of a word and then match derivative versions of that outline with derivative versions of that word. However, in cases where the derivative version of the word is more common than the root version of the word (especially when the root version of the word doesn't appear in ROPE), I may match the root version of an outline to a derivative word, and a derivative version of an outline to a root word.
 
-**3.3.3.6. Avoiding/removing non-intuitive vowel-less outlines (NIVLOs)**
 
-Following the introduction of ROPE 2.3, I found that learning and correctly writing outlines that aren’t at all intuitive and don’t have vowels in them (which I term NIVLOs) seems to be harder than learning and writing outlines that have a vowel and/or are intuitive. My hypothesis is that this is due to at least two reasons:
+**3.3.3.6. Intuitive outlines are preferable to non-intuitive ones**
 
-1. It may be that I pronounce outlines mentally in my head while writing them (especially early in the learning process). Outlines that don’t have a vowel might take longer to pronounce, as there can be more syllables involved; this, in turn, might lengthen the writing process. For example, although the outline H-FG is shorter than the outline HAFG, HAFG could actually end up being faster. I might find myself spelling out H-F-G in my head before/while writing the outline (which would take 3 syllables), whereas I could mentally pronounce “HAFG” in two syllables, thus making it easier and/or faster to write. (If this doesn’t make much sense, that’s fine; it’s simply one theory I have as to why vowel-less outlines seem to be slower for me.)
+I prefer intuitive outlines to non-intuitive ones; intuitive outlines are easier to learn, and it's also possible that they are faster to write (although this speed advantage may decrease or disappear once a non-intuitive outline is practiced sufficiently).  However, unlike my keypress limits for outlines, intuitiveness is *not* a requirement for outlines to be included in ROPE, as some intuitive outlines still work very well. (A prime example is SKP- for "and," which, while not intuitive at all, ends up being a great fit due to the many phrase outlines that it facilitates.)
 
-2. The other reason is that vowels reduce ambiguity for certain outlines. For example, suppose I used H-RP for an outline. This is just 3 characters, but the problem is that it may be hard for me to remember what side of the keyboard the vowel is on (i.e. whether the outline is HR-P or H-RP). Vowels help eliminate this ambiguity. If the outline were HARP or HRAP, I would know exactly which R were being used. The more ambiguous an outline is, I theorize, the harder it is to write quickly and correctly.
+"Intuitive" outlines, as I define them, are outlines that (1 start with the same letter as the words they represent, or (2 have some other phonetic similarity to the words. These outlines often still include non-intuitive components, such as letters not found in the original word. 
 
-These two factors seem to play a larger role when the outline in question has no obvious connection to the word it is representing. Therefore, outlines that are vowel-less but at least somewhat intuitive do not create as many issues for me.
+(Note that an outline's first letter may be different from an outline's first key; for instance, an outline that starts with "TPH" could be considered as starting with the letter T *or* the letter N (to which TPH- maps).)
 
-Regardless of the exact reasons why NIVLOs are problematic, I decided to try to reduce the number of NIVLOs in my outline list. If a superior non-NIVLO alternative is available for a word that’s currently mapped to a NIVLO, then I may replace the NIVLO with the non-NIVLO outline. 
+I also admit that I initially underestimated the value of intuitiveness in designing ROPE. Therefore, I have made hundreds of changes to my outlines deck in order to replace non-intuitive outlines with more intuitive outlines.
 
-My original version of ROPE 2-3 (by my count) probably had over 450 NIVLOs, but I have been able to significantly reduce that count over time. One such strategy involved transferring great outlines from less frequent words to more frequent words, then finding other outlines for the words to which those outlines used to map, which could also involve taking outlines from other words! For example, if I needed a 4-stroke outline for a word in the top 1000, I could (1 look through the outlines for words outside of the top 1000, transfer a 4-keypress outline from one of those less frequent words to the word in the top 1000, and then find a 5-keypress outline that could be used for the less frequent word
+To make these changes, I first went through my list of single-word outlines and identified outlines that were not at all intuitive. I am now going through this list from the most frequent words to the least frequent ones and changing many of these outlines so that they are at least somewhat intuitive. 
 
-However, because there are only so many “voweled” outlines available with under 4 or 5 keypresses, and because some NIVLOs actually seem to work pretty well (SKP- for “and” being a prime example), ROPE 2-3 does have some NIVLOs, and will likely continue to do so. 
+To select new outlines, I would often test out different potential outlines whose first letter matched the first letter of the word they were to represent (or had some other intuitive element). For instance, to find an outline for "several," I could try out SEF, SER, SEP, SEB, SEL, SEG, and so on. For "bit," I could go through outlines that started with BA, then BO, then BE, and then BU. If one of these outlines was not already serving as an intuitive outline for a word, it could be a great choice for the new word.
 
-Also, there is a NIVLO column in ROPE 2-3 (currently column J) that you can review and edit as needed.
+Using outlines whose first letter matched the first letter of the word generally worked well, except when the first letter required lots of keypresses to represent in steno, as these keypresses would make it harder for me to keep outlines within my 4- and 5-keypress limits. For instance, the fact that the letter "G" requires 4 keypresses (TKPW-) using the steno keyboard made it harder to add in outlines that (1 began with G- and (2 still met my 4- and 5- keypress stroke limitations. However, in these situations, I could develop other kinds of intuitive outlines. "Give" received the outline EUF, which matches the letters in "give" that come after "G." "Get" received KET as an outline, as k- sounds quite a bit like "g," but only requires one keypress in steno. (It also helped that the ET in KET matched the "et" in "get.")
+
+
+In selecting these new outlines, a "chain reaction" effect would sometimes develop in which changing one outline would lead me to change multiple other outlines. This could occur when transferring an outline from the word it used to represent to a new word. I would then have to find another outline for the old word, which could entail transferring yet another outline from another word to that word. This progress could continue for quite a while!
+
+
+
+Note that I use two columns in my single-words deck spreadsheet to track the number of non-intuitive outlines and non-intuitive vowelless outlines that it contains. I am quite sure that both of these totals have decreased since I originally published ROPE 2-2.
+
+
+
 
 **3.3.3.7. The use of –T and * to represent different endings**
 
@@ -513,27 +518,19 @@ Many words have both "-le" or "-ral" and "-ly" derivative forms. For example, "n
 As an example, I use HOB for "nature" and HOBL for "natural." "Naturally" could be written as H*OBL (which adds an * to HOBL for "natural," but for the purpose of saving a keypress, I like to use H*OB for "naturally." (It's still worthwhile to add in H*OBL as an option for "naturally," though.)
 
 
-**3.3.3.9. Intuitive outlines are preferable to non-intuitive ones**
-
-Although I do believe that it’s not crucial for outlines to be intuitive, I acknowledge that, all else being equal, intuitive outlines are usually preferable to non-intuitive outlines (provided that the intuitive outlines still fit within my 4- and 5-keypress limits). Intuitive outlines are easier to learn, and it's also possible that they are faster to write (although this speed advantage may decrease or disappear once a non-intuitive outline is practiced sufficiently).
-
-I also admit that I underestimated the value of intuitive outlines in the past. Therefore, I have made a number of changes to my outlines deck in order to replace non-intuitive outlines with more intuitive outlines. (I say "more" intuitive because my idea of an intuitive outline is pretty liberal; an outline that begins with the same letter as or has some phonetic similarity to the word it represents will often be considered "phonetic" in my book.)
-
-Note that I use two columns in my single-words deck spreadsheet to track the number of non-intuitive outlines and non-intuitive vowelless outlines that it contains. I am quite sure that both of these totals have decreased since I originally published ROPE 2-2.
-
-**3.3.3.10. Outlines with -R and R-**
+**3.3.3.9. Outlines with -R and R-**
 
 If you have an outline that uses R-, especially if it’s a vowel-less outline, you should also consider adding in the same outline except with -R, and vice versa. That’s because it can be hard to remember which R to use, even with a mnemonic story that helps differentiate between them. In addition, I would recommend adding in an outline with both Rs in use, as your fingers may try to write both of them at the same time. I would also recommend against using outlines that differ only in the type of R they use to write two different words, although this still shows up in ROPE. You may also find it helpful to apply this concept to outlines that use one of the two Ps.
 
-**3.3.3.11. Preferred keys for outlines**
+**3.3.3.10. Preferred keys for outlines**
 
 Although the briefs in ROPE use every key but the number row, my preferred keys for briefs are those that don’t involve much horizontal finger travel: specifically, every key but the asterisk key, the number row, D, and Z. However, plenty of my briefs do use the asterisk key, since it’s a helpful tool for creating derivative outlines.
 
-**3.3.3.12. Does it work “in vivo”?**
+**3.3.3.11. Does it work “in vivo”?**
 
 An outline may look great on the spreadsheet, but only after it’s put into practice can you determine whether it works for you. I have made lots of changes to my original outline list after finding that some of the outlines I originally assigned to words were hard to write consistently. The largest example of this was the trouble I had with vowel-less outlines, which led me to replace many of these outlines with “vowelled” outlines.
 
-**3.3.3.13. Using outlines already mapped to other words**
+**3.3.3.12. Using outlines already mapped to other words**
 
 I don’t have too many qualms about using great outlines already mapped to less frequent words for more frequent words, particularly if I can remap the less frequent word to the same outline except with an asterisk added. For example, HOP is a great outline for verbs that usually maps to “hop,” a word ranked #3,999 in frequency. Because this outline is both very short and very easy to write, I remapped it to “clothe” (making “clothing” and “clothes” into 4-keypress outlines), and remapped “hop” to H*OP. Ultimately, there are only so many great outlines to go around, so I’m happy to repurpose them for more frequent words.
 
