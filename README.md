@@ -479,7 +479,7 @@ I prefer intuitive outlines to non-intuitive ones; intuitive outlines are easier
 
 "Intuitive" outlines, as I define them, are outlines that (1 start with the same letter as the words they represent, or (2 have some other phonetic similarity to the words. These outlines often still include non-intuitive components, such as letters not found in the original word. 
 
-(Note that an outline's first letter may be different from an outline's first key; for instance, an outline that starts with "TPH" could be considered as starting with the letter T *or* the letter N (to which TPH- maps).)
+(Note that an outline's first letter may be different from an outline's first key; for instance, an outline that starts with "TPH" could be considered as starting with the letter T *or* the letter N (to which TPH- maps). In addition, it was also acceptable—and in some cases preferred—for an outline to start with the same letter as did a major or dominant syllable within the word.)
 
 I also admit that I initially underestimated the value of intuitiveness in designing ROPE. Therefore, I have made hundreds of changes to my outlines deck in order to replace non-intuitive outlines with more intuitive outlines.
 
