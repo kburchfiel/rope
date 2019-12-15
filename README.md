@@ -1,6 +1,6 @@
 # Important! Read before downloading:
 
-**I am currently making major changes to my ROPE single-word outlines list. My plan is to reduce the number of non-intuitive outlines from 1900 or so to below 421. Once I have finished this project, I will release ROPE 3.0.**
+**I am currently making major changes to my ROPE single-word outlines list. My plan is to greatly reduce the number of non-intuitive outlines in my deck. Once I have finished this project, I will release ROPE 3.0.**
 
 **ROPE 3.0 is a work in progress and may remain so until the end of January 2020. Therefore, you may wish to wait to download ROPE until 3.0 is released. Once ROPE 3.0 is ready for release, I will remove "Work in Progress" from the document's title, and will also add corresponding Anki decks.**
 
@@ -431,7 +431,7 @@ In general, I tried to assign shorter outlines (with 4 keypresses or fewer) to m
 
 **3.3.3.2. Different outline endings better facilitate one-stroke derivative outlines for words representing different parts of speech**
 
-I consider it ideal to be able to write a word's derivative forms in a single stroke without too much difficulty. This is made easier when outlines with certain endings are used for root words that represent certain parts of speech. Because different parts of speech take different endings, it is good practice to choose outlines that can have those endings added in without the need for an additional stroke.
+I consider it ideal to be able to write a word's derivative forms in a single stroke without too much difficulty. This is made easier when outlines with certain endings are used for root words that represent certain parts of speech. Because different parts of speech take different endings, it is good practice to choose outlines that can have those endings added in without the need for an additional stroke. This principle had a major impact on my outline choices, and as a result, you can generally write the different verb forms of verbs listed in ROPE in a single stroke.
 
 For example, PROEUS is a one-stroke outline for "process." However, it is not ideal for outlines for verbs to end in -S. This is because PROEUSD (for "processed") can't be written without some fancy finger movement, and PROEUSZ (for "processes") is a bit tricky to write. In addition, when -G is added to outlines ending in -S for verbs, it's possible to run into conflicts with other words that use the -GS ending for "-tion." As an example, if you use PAS for "pass," you can't write "passing" as PAGS, as that creates "passion." (I added in REB for "process" and PAF for "pass.")
 
