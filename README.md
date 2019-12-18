@@ -1,10 +1,10 @@
 # Important! Read before downloading:
 
-**I am currently making major changes to my ROPE single-word outlines list. My plan is to greatly reduce the number of non-intuitive outlines in my deck. Once I have finished this project, I will release ROPE 3.0.**
+**I am currently making major changes to ROPE, which were prompted by a desire to greatly reduce the number of non-intuitive outlines in ROPE. I have made many changes to my outlines lists, and my focus will now be on adding in notes and and stories for my new single-word outlines. Once I have finished this project, I will release ROPE 3.0.**
 
-**ROPE 3.0 is a work in progress and may remain so until the end of January 2020. Therefore, you may wish to wait to download ROPE until 3.0 is released. Once ROPE 3.0 is ready for release, I will remove "Work in Progress" from the document's title, and will also add corresponding Anki decks.**
+**ROPE 3.0 is a work in progress and may remain so until the end of January 2020. Therefore, you may wish to wait to download ROPE until 3.0 is released. Once ROPE 3.0 is ready for release, I will remove "Work in Progress" from the document's title.**
 
-**Thank you for your patience with these outline changes, which I believe will ultimately result in an easier learning experience--and possibly a faster writing experience as well!**
+**Thank you for your patience with these changes, which I believe will ultimately result in an easier learning experience--and possibly a faster writing experience as well!**
 
 # ROPE
 Welcome to ROPE (Remembering Outlines in Plover more Easily), my system for learning and remembering Plover outlines! ROPE is now in version 2.3. This page includes download links to the four components of ROPE: the spreadsheet, the Anki decks, the corresponding dictionary, and the readme.  Also, for videos I’ve made about Plover, along with videos about typing in general, visit my YouTube playlist at  https://www.youtube.com/playlist?list=PLYtyZPMUWeI_4i4pc0peBPGMfSV7C5Nxw   . —Kenneth Burchfiel
@@ -716,7 +716,9 @@ I release all of the stories I myself wrote into the public domain (along with t
 
 3. Save this Notepad file as a UTF-8 file by changing the encoding to UTF-8 at the bottom, then saving it as a .txt file once again. Change the name from the original .txt file as well so that you'll know which one to import into Anki.
 
-4. Import this UTF-8 file into Anki. Note: the error message "the first field of the note type must be mapped" may occur if, during the import process, you do not map any field to the first field (Front) of the ROPE note type. To solve this, map the word/phrase column to "front" instead of to the word/phrase field. (Another solution could potentially be to delete the "front" field, but that would probably delete all of the words from the English ROPE 2.3 deck! Therefore, for now, I'll simply map the word/phrase column to "front.") 
+4. Import this UTF-8 file into Anki. I recommend having "Import even if existing note has same first field" selected, as it appears that otherwise, cards will not be added to a deck if they exist elsewhere.
+
+Note: the error message "the first field of the note type must be mapped" may occur if, during the import process, you do not map any field to the first field (Front) of the ROPE note type. To solve this, map the word/phrase column to "front" instead of to the word/phrase field. (Another solution could potentially be to delete the "front" field, but that would probably delete all of the words from the English ROPE 2.3 deck! Therefore, for now, I'll simply map the word/phrase column to "front.") 
 
 Even with all these steps, after enough practice, you should be able to import a set of cards from Excel into Anki in less than 4 minutes.
 
