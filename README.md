@@ -1,6 +1,6 @@
 # Important! Read before downloading:
 
-**I am currently making major changes to ROPE, which were prompted by a desire to greatly reduce the number of non-intuitive outlines in ROPE. I have made many changes to my outlines lists, and my focus will now be on adding in notes and and stories for my new single-word outlines. Once I have finished this project, I will release ROPE 3.0.**
+**I am currently making major changes to ROPE, which were prompted by a desire to greatly reduce the number of non-intuitive outlines in ROPE. I have made many changes to my outlines lists, and my focus will now be on adding in notes and stories for my new single-word outlines. Once I have finished this project, I will release ROPE 3.0.**
 
 **ROPE 3.0 is a work in progress and may remain so until the end of January 2020. Therefore, you may wish to wait to download ROPE until 3.0 is released. Once ROPE 3.0 is ready for release, I will remove "Work in Progress" from the document's title.**
 
