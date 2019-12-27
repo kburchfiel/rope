@@ -260,7 +260,7 @@ My strategies included:
 
 2. Assigning each key on the steno keyboard a specific word for which it stands (e.g. "octopus" for O, "space shuttle" for S- , and then using those words in your story. Note that vowel/consonant “specifiers” that you can use for this task are listed below.)
 
-3. Identifying one or more words that appear similar to all or part of the outline itself (note: I find using one word to represent the entire part of an outline to be perhaps the ideal strategy for creating a story, although this is not always possible)
+3. Identifying one or more words that appear similar or identical to all or part of the outline itself, and then using those words within my story (note: I find using one word to represent the entire outline to be perhaps the ideal strategy for creating a story, although this is not always possible)
 
 4. Identifying a phrase that appears similar to the outline itself
 
