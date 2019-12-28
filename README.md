@@ -514,6 +514,8 @@ When it is helpful, I also use –T to represent other endings. For instance, I ad
 
 When adding –T to the outline won’t work, or when –T is already taken, I like to use * as a “backup” modifier. In addition, I often add * to an original outline to produce a new outline that is an antonym of the original outline. I find that this strategy makes it easier to remember the new outline.
 
+* is also used at times when a letter can't be added to an outline to form a derivative because that letter is already present in the outline.
+
 **3.3.3.8 -le and ly considerations**
 
 Many words have both "-le" or "-ral" and "-ly" derivative forms. For example, "nature" has both "natural" and "naturally" as derivatives. In these situations, I prefer to add -L to the root outline for the "-le/-ral" ending. For the "-ly" ending, you could simply add in asterisk to the outline with -L in it; however, to save a keypress, I often like to add in an * to the root word if this outline is available.
@@ -536,6 +538,12 @@ An outline may look great on the spreadsheet, but only after it’s put into pract
 **3.3.3.12. Using outlines already mapped to other words**
 
 I don’t have too many qualms about using great outlines already mapped to less frequent words for more frequent words, particularly if I can remap the less frequent word to the same outline except with an asterisk added. For example, HOP is a great outline for verbs that usually maps to “hop,” a word ranked #3,999 in frequency. Because this outline is both very short and very easy to write, I remapped it to “clothe” (making “clothing” and “clothes” into 4-keypress outlines), and remapped “hop” to H*OP. Ultimately, there are only so many great outlines to go around, so I’m happy to repurpose them for more frequent words.
+
+**3.3.3.13. Outlines for numbers greater than 10 and their ordinal equivalents**
+
+For the cardinal numbers "eleven" through "nineteen" (except for "twelve"), I use the ones digit of that number plus an E. For the cardinal numbers "thirty" through "ninety," I use the tens digit of that number plus a U. For the ordinal or "-th" forms of those numbers, I just add a * to those outlines. 
+
+To add these outlines into the dictionary, you will need to use the form shown in the outlines column (e.g. 1E for "eleven" rather than #SE, even though #SE represents the actual keypresses for that word).
 
 
 **3.3.4 Other notes on outline choices:**
