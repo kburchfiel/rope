@@ -387,10 +387,11 @@ But not to worry—if you forget an outline, the stories can help you insert it ba
 
 1. Don't assume anything I say in the stories to be true! There's a ton of made-up stuff and false information, but it's all there to help you learn the outlines. 
 
-2. Don't assume that an apparent outline I inserted in a story actually maps to a word unless it's stated explicitly that it does. A huge chunk of the outlines that I included in these stories, probably the vast majority, are 'pseudo-outlines' that are just there to help you link the word you're studying to the outline you're studying. 
+2. Don't assume that a capitalized series of letters that I included in a story is an outline for a word listed next to it unless it's stated explicitly that it is. In many cases, these capitalized series of letters merely resemble the word associated with them, and do not actually map to that word. The purpose of including these series of letters is to help you connect the words and the outlines for which the stories were written.
 
 3. The stories shouldn't be assumed to be actual explanations of how these outlines were developed. 
 
+4. Mentions of products or companies in stories does not constitute endorsement of those products and services. As indicated earlier, nothing mentioned of any company or product should be assumed to be accurate.
 
 # #3. THE OUTLINES AND THE WORDS
 
@@ -522,7 +523,6 @@ Many words have both "-le" or "-ral" and "-ly" derivative forms. For example, "n
 
 As an example, I use HOB for "nature" and HOBL for "natural." "Naturally" could be written as H*OBL (which adds an * to HOBL for "natural," but for the purpose of saving a keypress, I like to use H*OB for "naturally." (It's still worthwhile to add in H*OBL as an option for "naturally," though.)
 
-
 **3.3.3.9. Outlines with -R and R-**
 
 If you have an outline that uses R-, especially if it’s a vowel-less outline, you should also consider adding in the same outline except with -R, and vice versa. That’s because it can be hard to remember which R to use, even with a mnemonic story that helps differentiate between them. In addition, I would recommend adding in an outline with both Rs in use, as your fingers may try to write both of them at the same time. I would also recommend against using outlines that differ only in the type of R they use to write two different words, although this still shows up in ROPE. You may also find it helpful to apply this concept to outlines that use one of the two Ps.
@@ -544,6 +544,10 @@ I don’t have too many qualms about using great outlines already mapped to less f
 For the cardinal numbers "eleven" through "nineteen" (except for "twelve"), I use the ones digit of that number plus an E. For the cardinal numbers "thirty" through "ninety," I use the tens digit of that number plus a U. For the ordinal or "-th" forms of those numbers, I just add a * to those outlines. 
 
 To add these outlines into the dictionary, you will need to use the form shown in the outlines column (e.g. 1E for "eleven" rather than #SE, even though #SE represents the actual keypresses for that word).
+
+**3.3.3.14. Using asterisks to represent antonyms**
+
+I sometimes added in an asterisk to outlines for words to form outlines for that word's antonym. For example, by adding an asterisk to the outline for "possible" (POB), I created an outline to represent "impossible" (P*OB).
 
 
 **3.3.4 Other notes on outline choices:**
