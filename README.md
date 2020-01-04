@@ -515,7 +515,7 @@ When it is helpful, I also use –T to represent other endings. For instance, I ad
 
 When adding –T to the outline won’t work, or when –T is already taken, I like to use * as a “backup” modifier. In addition, I often add * to an original outline to produce a new outline that is an antonym of the original outline. I find that this strategy makes it easier to remember the new outline.
 
-* is also used at times when a letter can't be added to an outline to form a derivative because that letter is already present in the outline.
+An asterisk is also used at times when a letter can't be added to an outline to form a derivative because that letter is already present in the outline.
 
 **3.3.3.8 -le and ly considerations**
 
@@ -549,12 +549,20 @@ To add these outlines into the dictionary, you will need to use the form shown i
 
 I sometimes added in an asterisk to outlines for words to form outlines for that word's antonym. For example, by adding an asterisk to the outline for "possible" (POB), I created an outline to represent "impossible" (P*OB).
 
+**3.3.3.15. Using asterisks to represent the "a-" prefix
 
-**3.3.4 Other notes on outline choices:**
+Asterisks are also sometimes used to represent the "a-" prefix. One example is SHR*P for "asleep," which is based on the addition of SHR-P for "sleep."
 
-**Replacing –S with –Z for plurals**
+**3.3.3.16.Replacing –S with –Z for plurals**
+
+**3.3.3.17. The perfect is the enemy of the good**
+
+The outlines that I chose are far from perfect. However, I believe that accepting a pre-existing addition, provided that it meets the criteria described above, is often preferable to continuesly changing an outline to make it slightly more intuitive. It is harder to build speed with a constantly changing outlines list than with an imperfect, but relatively stable one.
 
 For plurals of outlines that end with –S, it can be helpful to add in outlines that replace the –S with a –Z, as these will make it easier to write the plural forms. For example, I use KAS for “individual,” so I added in KAZ for “individuals.” This is much easier to write than is KASZ. Similarly, I use S-GS for “solution,” so I added in S-GZ for “solutions.”
+
+
+**3.3.4 Other notes on outline choices:**
 
 **Adding in outlines for "hidden" root words**
 
