@@ -553,14 +553,17 @@ I sometimes added in an asterisk to outlines for words to form outlines for that
 
 Asterisks are also sometimes used to represent the "a-" prefix. One example is SHR*P for "asleep," which is based on the addition of SHR-P for "sleep."
 
-**3.3.3.16.Replacing –S with –Z for plurals**
+**3.3.3.16. Replacing –S with –Z for plurals**
 
-**3.3.3.17. The perfect is the enemy of the good**
+**3.3.3.17. Removing vowels from outlines**
+
+One easy way to make shorter, yet intuitive outlines was to remove the vowels from pre-existing outlines. I often didn't consider it necessary to write stories for such outlines.
+
+**3.3.3.18. The perfect is the enemy of the good**
 
 The outlines that I chose are far from perfect. However, I believe that accepting a pre-existing addition, provided that it meets the criteria described above, is often preferable to continuesly changing an outline to make it slightly more intuitive. It is harder to build speed with a constantly changing outlines list than with an imperfect, but relatively stable one.
 
 For plurals of outlines that end with –S, it can be helpful to add in outlines that replace the –S with a –Z, as these will make it easier to write the plural forms. For example, I use KAS for “individual,” so I added in KAZ for “individuals.” This is much easier to write than is KASZ. Similarly, I use S-GS for “solution,” so I added in S-GZ for “solutions.”
-
 
 **3.3.4 Other notes on outline choices:**
 
