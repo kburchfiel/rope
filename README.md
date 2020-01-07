@@ -628,11 +628,21 @@ Corrections are welcome! As far as stories go, I think the best thing to do is a
 **4.7. What other information is included in the Excel/Anki documents?**
 
 The Excel and Anki files also include:
+
 1. The original list from the NGSL website, if any, in which these words appeared
-1. The frequency ranks for words
-3. Simplified versions of some of the outlines
-4. Alternate or added-in outlines for some of the words
+
+2. The frequency ranks for words
+
+3. A notes column that can provide various kinds of information, including on what outline an outline is based; what the outline overwrites (and what outline I added in for the overwritten word, if applicable); a simplified version of the outline; and derivative forms of the outline that I also added in.
+
+Regarding this column: Please note that information about what word an additional outline in ROPE overwrites (and what outline, if any, I added in for the overwritten word) may only be included once, as I didn't see a need to include it multiple times. I will seek to at least include this information in the entry in ROPE for the word to which that additional outline maps. If the word to which the outline maps isn't in ROPE, and the outline is a derivative of another outline for a word that is in ROPE, then I intend to include this information within the entry for that other outline. In addition, I did not always specify which outline an additional outline overwrote if it could be inferred from other information in the notes column. (For example, if I noted that TP-PB for "fine" overwrites "finance," then I didn't see it necessary to note that my addition of TP-PBG for "fining" overwrites "financing," as this could already be predicted based on the information about TP-PB's overwriting "finance.")
+
+Also note that new updates to the main Plover dictionary may render any given notes column obsolete. Therefore, before adding in any suggested additional outline, you may want to open up the main Plover dictionary to see the current outline, if any, that that additional outline overwrites. In addition, you can consult the supplementary ROPE dictionary to see what outline, if any, was added for that overwritten word. 
+
+4. Alternate outlines for some of the words
+
 5. Additional information that might help you remember an outline (but doesn't constitute a mnemonic story)
+
 
 In addition, the Excel file contains a list of outlines that I consider to be NIVLOs (see above). I have made a lot of progress in reducing ROPE's NIVLO count.
 
