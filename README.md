@@ -1,10 +1,5 @@
-# Important! Read before downloading:
+# Note: ROPE 3.0 was released on 2020-1-14. However, the readme needs to be heavily revised. in addition, I plan to add far more notes to the ROPE phrase page/deck and ROPE commands page. I am hoping to complete these changes by the end of January.
 
-**I am currently making major changes to ROPE, which were prompted by a desire to greatly reduce the number of non-intuitive outlines in ROPE. I have made many changes to my outlines lists, and my focus will now be on adding in notes and stories for my new single-word outlines. Once I have finished this project, I will release ROPE 3.0.**
-
-**ROPE 3.0 is a work in progress and may remain so until the end of January 2020. Therefore, you may wish to wait to download ROPE until 3.0 is released. Once ROPE 3.0 is ready for release, I will remove "Work in Progress" from the document's title.**
-
-**Thank you for your patience with these changes, which I believe will ultimately result in an easier learning experience--and possibly a faster writing experience as well!**
 
 # ROPE
 Welcome to ROPE (Remembering Outlines in Plover more Easily), my system for learning and remembering Plover outlines! ROPE is now in version 2.3. This page includes download links to the four components of ROPE: the spreadsheet, the Anki decks, the corresponding dictionary, and the readme.  Also, for videos I’ve made about Plover, along with videos about typing in general, visit my YouTube playlist at  https://www.youtube.com/playlist?list=PLYtyZPMUWeI_4i4pc0peBPGMfSV7C5Nxw   . —Kenneth Burchfiel
@@ -15,7 +10,7 @@ Welcome to ROPE (Remembering Outlines in Plover more Easily), my system for lear
 
 Kenneth Burchfiel
 
-*(Rope 2.3 was launched on 9/27/2019, and will probably be updated many times.)*
+*(Rope 3.0 was initially launched on 1/14/2020, and will probably be updated many times.)*
 
 AMDG
 
@@ -745,7 +740,7 @@ I release all of the stories I myself wrote into the public domain (along with t
 
 [This is sort of a "note to self" for future Anki file creation.] When I first created the Anki deck for an earlier version of ROPE, I copied and pasted the cells directly from Excel into Notepad, saved the Notepad file as an UTF-8 document, and then imported this document into Anki. This led to some odd issues (for instance, 4198 of the 4201 cards were imported, but "lab," "lamp," and "ingredient" were not; in addition, some cards had missing characters, such as missing quotation marks). Therefore, I went back and reread the instructions for importing Excel files into Anki (https://docs.google.com/document/d/12YE_FS6A9ANLTESJNtPP116ti4nNmCBghyoJBRtno_k/edit# ), and now I realize I must do the following for a successful import:
 
-1. Within Exel, save the Excel file as a Unicode Text .txt file with a different name. (To prepare this file, I copied and pasted (as values) only the rows and columns I needed for the Anki cards from ROPE’s Excel file into a new Excel file; cleared all the formatting; and then saved in Exel it as a Unicode Text file.)
+1. Within Exel, save the Excel file as a Unicode Text .txt file with a different name. (To prepare this file, I copied and pasted (as values) only the rows and columns I needed for the Anki cards from ROPE’s Excel file into a new Excel file; cleared all the formatting; and then saved it in Exel as a Unicode Text file.)
 
 2. Open this Unicode text file in Notepad (rather than copy and paste the text from the ROPE Excel file directly into Notepad). Before opening the file, change the "encoding" to Unicode within the dropdown menu.
 
