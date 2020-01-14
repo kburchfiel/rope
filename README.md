@@ -1,11 +1,11 @@
-# Note: ROPE 3.0 was released on 2020-1-14. However, the readme needs to be heavily revised. in addition, I plan to add far more notes to the ROPE phrase page/deck and ROPE commands page. I am hoping to complete these changes by the end of January.
+# Note: ROPE 3.0 was released on 2020-1-14. However, the readme needs to be heavily revised. in addition, I plan to add far more notes to the ROPE phrase page/deck and ROPE commands page. I am hoping to complete these changes by the end of January 2020.
 
 
 # ROPE
-Welcome to ROPE (Remembering Outlines in Plover more Easily), my system for learning and remembering Plover outlines! ROPE is now in version 2.3. This page includes download links to the four components of ROPE: the spreadsheet, the Anki decks, the corresponding dictionary, and the readme.  Also, for videos I’ve made about Plover, along with videos about typing in general, visit my YouTube playlist at  https://www.youtube.com/playlist?list=PLYtyZPMUWeI_4i4pc0peBPGMfSV7C5Nxw   . —Kenneth Burchfiel
+Welcome to ROPE (Remembering Outlines in Plover more Easily), my system for learning and remembering Plover outlines! ROPE is now in version 3.0. This page includes download links to the four components of ROPE: the spreadsheet, the Anki decks, the corresponding dictionary, and the readme.  Also, for videos I’ve made about Plover, along with videos about typing in general, visit my YouTube playlist at  https://www.youtube.com/playlist?list=PLYtyZPMUWeI_4i4pc0peBPGMfSV7C5Nxw   . —Kenneth Burchfiel
 
 
-# **Readme for ROPE (Remembering Outlines in Plover more Easily) – version 2.3:**
+# **Readme for ROPE (Remembering Outlines in Plover more Easily) – version 3.0:**
 **A system for learning and remembering outlines for over 4,000 common English words**
 
 Kenneth Burchfiel
@@ -20,7 +20,7 @@ AMDG
 
 # # Links:
 
-Visit the ROPE GitHub page to download the ROPE 2.3 spreadsheet, Anki deck, dictionary, and readme!  https://github.com/kburchfiel/rope 
+Visit the ROPE GitHub page to download the ROPE 3.0 spreadsheet, Anki deck, dictionary, and readme!  https://github.com/kburchfiel/rope 
 
 For videos I’ve made about Plover, along with videos about typing in general, visit my YouTube playlist at  https://www.youtube.com/playlist?list=PLYtyZPMUWeI_4i4pc0peBPGMfSV7C5Nxw 
 
