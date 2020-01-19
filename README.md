@@ -176,7 +176,7 @@ While everyone's experience will vary, I think these outlines, flashcards, and s
 
 This is a very important question, and one that took a lot of trial and error for me to answer! ROPE's single-word deck has around 4,200 cards, so if you were to study the cards in linear order (from most frequent to least frequent), you might end up forgetting the first cards you studied by the time you go through the whole deck at least once. Even though Anki uses a spaced repetition feature to guard against forgetting cards, the reality is that if you try to study a lot of new cards each day without making sure you've completed all your reviews, some cards will be forgotten. (This was the case for me, at least.)
 
-	Here is the Anki study method that I recommend to help you learn new cards without forgetting older cards in the process. It helps ensure that you have done all needed reviews of cards at or above a certain frequency before moving on to cards of a lower frequency.
+Here is the Anki study method that I recommend to help you learn new cards without forgetting older cards in the process. It helps ensure that you have done all needed reviews of cards at or above a certain frequency before moving on to cards of a lower frequency.
 
 1. Click on the deck in Anki.
 
@@ -212,11 +212,11 @@ One final note: before exporting your Anki deck (e.g. to back it up), I think yo
 # #1.4. Is a dictionary with the ROPE outlines available?
 Yes! I have now made public a custom Plover dictionary ("ROPE 3-0 Additions and more") that contains all of the outlines for many additions that ROPE suggests, along with lots of misstroke entries that will make these outlines easier to adopt. The dictionary can be found on the Rope GitHub page.
 
-	This dictionary is not perfect; for example, it contains lots of "outdated" added-in outlines that have since been replaced with new additions. In addition, if you don't wish to use all of the added-in outlines in ROPE, I wouldn't necessarily recommend using this dictionary, as it remaps a number of pre-existing outlines to new words. A further issue with this dictionary is that new outlines are continuing to be developed, so any download of this dictionary will become outdated over time. (However, I will continue to upload updates of this dictionary.)
+This dictionary is not perfect; for example, it contains lots of "outdated" added-in outlines that have since been replaced with new additions. In addition, if you don't wish to use all of the added-in outlines in ROPE, I wouldn't necessarily recommend using this dictionary, as it remaps a number of pre-existing outlines to new words. A further issue with this dictionary is that new outlines are continuing to be developed, so any download of this dictionary will become outdated over time. (However, I will continue to upload updates of this dictionary.)
 
-	Finally, the version of the default Plover dictionary (main.json) that I use may differ significantly from a more recent version of the main Plover dictionary. This means that the "ROPE 3.0 additions and more" dictionary may interact differently with a newer copy of the main Plover dictionary.
+Finally, the version of the default Plover dictionary (main.json) that I use may differ significantly from a more recent version of the main Plover dictionary. This means that the "ROPE 3.0 additions and more" dictionary may interact differently with a newer copy of the main Plover dictionary.
 
-	However, if you wish to use all of the new outlines suggested in ROPE, this dictionary may save you a lot of time. And if it causes any trouble, you can always delete it.
+However, if you wish to use all of the new outlines suggested in ROPE, this dictionary may save you a lot of time. And if it causes any trouble, you can always delete it.
 Note that this dictionary is meant to be used as a supplement to the regular Plover dictionary (main.json), rather than as a replacement. You will need to set it as a higher priority than the regular Plover dictionary for the new outlines to take effect.
 
 
@@ -236,7 +236,7 @@ I mention all this because this mnemonic system is a little "fuzzier" than a sys
 
 A more precise mnemonic method to use with Plover was developed by Joshua Pan, and can be found at https://github.com/openstenoproject/plover/wiki/Stenotype-Mnemonics-for-Beginners-(English) 
 
-**2.3. Different strategies for creating stories**
+**2.2. Different strategies for creating stories**
 
 I used a number of different strategies to come up with words that could help me remember the letters in an outline. I found that having multiple strategies made the story-making process easier. If you're trying to create your own story for an outline, feel free to use these strategies as well.
 
@@ -260,14 +260,14 @@ Note that these strategies can also be combined to produce multiple words for a 
 
 When using multiple outlines/letters within an outline to create a story, I recommend trying to use elements that don’t overlap, as this seems to improve recall (at least for me). For example, if you are trying to create a story for the outline TOEFL, it would be more ideal to create a story that uses “appoint” (the word to which the addition of TOEF maps) and LASER (the word used to represent –L) than it would be to create a story that uses “intend” (the word to which TOEL maps) and FRENCH FRIES (the phrase used to represent –F). This is because TOEF and –L do not overlap, whereas TOEL and –F do.
 
-# #2.3. Vowel and Consonant Specifiers
+**2.3. Vowel and Consonant Specifiers**
 
 When the following words are present in a story (and capitalized), they specify that a certain vowel or consonant is present in the outline. (Thanks to Joshua Pan for helping inspire this strategy.) Often, when a vowel specifier is present, it denotes the only vowel present in the outline, but in some cases, other vowels also appear.
 
 (The outlines I use for these words are also listed. Using most of these outlines with an asterisk converts the words to all caps and notes the letter they represent after the word, which is useful when writing stories. For instance, PEUPG maps to "ping pong," but P*EUPG maps to "PING PONG (P-)." In some cases, the outline for the all-caps version of the word is different; these exceptions are noted.)
 
 
-# #2.3.1. Vowels:
+**2.3.1. Vowels:**
 
 1. A: APPLE (AURPL)
 
@@ -323,7 +323,7 @@ The idea here is that when you're recalling the outline for error, you'll think 
 
 I probably went into more detail here than was necessary, but I didn't want you to get confused when you see something like R(ae)R in a story.
 
-# # 2.3.2. Consonant Specifiers (thank you Joshua Pan for helping inspire this method):
+**2.3.2. Consonant Specifiers (thank you Joshua Pan for helping inspire this method):**
 
 1. S-: SPACE SHUTTLE (SPULT)
 
@@ -600,79 +600,86 @@ Also note that new updates to the main Plover dictionary may render any given no
 
 # # Part 2: The Phrases Deck and commands/punctuation outlines page
 
-5.1. How the phrases deck was made:
+**5.1. How the phrases deck was made:**
 
-5.1.1 The phrases in the spreadsheet and deck came from the wonderful site Phrases in English (http://phrasesinenglish.org/), which allows you to search through an older version of the British National Corpus to find words and phrases. (From the PIE website: “"Phrases in English" (PIE) incorporates data from the British National Corpus, but is not affiliated with it. This site was developed by William H. Fletcher of the US Naval Academy in consultation with Michael Stubbs of the University of Trier. Development was funded in part by the Naval Academy Research Council.”)
+**5.1.1. The Phrases in English website**
+The phrases in the spreadsheet and deck came from the wonderful site Phrases in English (http://phrasesinenglish.org/), which allows you to search through an older version of the British National Corpus to find words and phrases. (From the PIE website: “"Phrases in English" (PIE) incorporates data from the British National Corpus, but is not affiliated with it. This site was developed by William H. Fletcher of the US Naval Academy in consultation with Michael Stubbs of the University of Trier. Development was funded in part by the Naval Academy Research Council.”)
 
-(The rest of 5.1 is pretty technical, so feel free to scroll down to 5.2 if you're not interested in exactly how the phrases deck was created.)
+(The rest of 5.1. 2 is pretty technical, so feel free to scroll down to 5.2 if you're not interested in exactly how the phrases deck was created.)
 
-5.1.2. I used this site to create lists of the top 100,000 phrases by frequency (with a minimum frequency of 20 appearances in the corpus) for phrases of 2 to 8 words. (The minimum frequency stipulation meant that not all of the lists ended up reaching 100,000 results.) In addition, I used the site to create a list of all 720 results (no minimum frequency) for the entry \*_* in the search box, which would detect phrases that were entered as single words.  
+**5.1.2.** Creating the list
+I used this site to create lists of the top 100,000 phrases by frequency (with a minimum frequency of 20 appearances in the corpus) for phrases of 2 to 8 words. (The minimum frequency stipulation meant that not all of the lists ended up reaching 100,000 results.) In addition, I used the site to create a list of all 720 results (no minimum frequency) for the entry \*_* in the search box, which would detect phrases that were entered as single words.  
 
 Please note that some "phrases" in this list were actually single words that had been broken into two parts. These words were still included in my final phrase list, but were not added to my Anki deck.
 
-5.1.3. I copied and pasted each of these lists into an Excel spreadsheet. Next, I sorted the list alphabetically and put apostrophes in front of entries that started with equals signs to prevent Excel from thinking those entries were formulas. After that, I used Excel's find+replace function to replace the space in between words seen in the original lists with a regular space (produced by pressing the space bar once). This step was needed because for some reason, the original spaces in the lists generated by the Phrases in English site interfered with Excel's search capability. (It was quite striking, once this step was completed, to see Excel tell me: "All done. We made 716052 replacements.")
+I copied and pasted each of these lists into an Excel spreadsheet. Next, I sorted the list alphabetically and put apostrophes in front of entries that started with equals signs to prevent Excel from thinking those entries were formulas. After that, I used Excel's find+replace function to replace the space in between words seen in the original lists with a regular space (produced by pressing the space bar once). This step was needed because for some reason, the original spaces in the lists generated by the Phrases in English site interfered with Excel's search capability. (It was quite striking, once this step was completed, to see Excel tell me: "All done. We made 716052 replacements.")
 
-5.1.4. I then used the find+replace function to replace all underscores in the original list with a regular space. (Some phrases were represented as one single word using an underscore on one occasion, but as multiple words on another occasion, which would pose issues when trying to remove duplicates. Therefore, I wanted to remove these underscores early into this process. This produced only 5502 replacements this time!)
+I then used the find+replace function to replace all underscores in the original list with a regular space. (Some phrases were represented as one single word using an underscore on one occasion, but as multiple words on another occasion, which would pose issues when trying to remove duplicates. Therefore, I wanted to remove these underscores early into this process. This produced only 5502 replacements this time!)
 
-5.1.5. I also replaced "per cent" with "percent"; "centre" with "center"; and "colour" with "color." Finally, I added a header to the two columns I kept so as to make creating the Pivot Table easier.
+I also replaced "per cent" with "percent"; "centre" with "center"; and "colour" with "color." Finally, I added a header to the two columns I kept so as to make creating the Pivot Table easier.
 
-5.1.6. I then used a Pivot Tables function to sum the frequency totals of duplicate entries (of which there were quite a few), which also removed the duplicate entries. Afterwards, I sorted this list by the number of occurrences of each phrase and entered in frequency rankings for the top ~10,000 or so. 
+I then used a Pivot Tables function to sum the frequency totals of duplicate entries (of which there were quite a few), which also removed the duplicate entries. Afterwards, I sorted this list by the number of occurrences of each phrase and entered in frequency rankings for the top ~10,000 or so. 
 
-5.1.7. I then and pasted the top ~2,000 phrases into a new spreadsheet for additional manipulatulation, and continued to tweak the formatting so that the entries could be included in ROPE. (For example, I reformatted some rows of the list to convert entries into actual words. This involved removing the spaces that had been added in between words with contracted forms and capitalizing the word “I” when it appeared in phrases. All the phrases in the list were originally uncapitalized.)
+I then copied and pasted the top ~2,000 phrases into a new spreadsheet for additional manipulatulation, and continued to tweak the formatting so that the entries could be included in ROPE. (For example, I reformatted some rows of the list to convert entries into actual words. This involved removing the spaces that had been added in between words with contracted forms and capitalizing the word “I” when it appeared in phrases. All the phrases in the list were originally uncapitalized.)
 
-5.1.8. After building this spreadsheet, my goal was to create a list of around 1,079 common English phrases that could be incorporated into ROPE. To build this list, I had a number of criteria:
+After building this spreadsheet, my goal was to create a list of around 1,079 common English phrases that could be incorporated into ROPE. To build this list, I had a number of criteria:
 
-5.1.8.1. Phrases would be included into my list in order of frequency, with the most frequent phrases getting priority. 
+1. Phrases would be included into my list in order of frequency, with the most frequent phrases getting priority. 
 
-5.1.8.2. Phrases were always/often/sometimes removed from inclusion (and placed in another category at the bottom of the spreadsheet) if:
+2. Phrases were always/often/sometimes removed from inclusion (and placed in another category at the bottom of the spreadsheet) if:
 
-1. They were actually a single word after reformatting (see below)
+a. They were actually a single word after reformatting (see below)
 
-2. They contained a proper noun
+b. They contained a proper noun
 
-3. They contained a set of characters that represented a symbol or did not represent a full word (such as "ve got" or "s the.). I believe that in the original list, entries such as "ve got" and "s the" were originally preceded by an apostrope (e.g. 've got and 's the). However, because Excel treats apostrophes as special characters when they start an entry, these apostrophes got removed during the above steps. This wasn't a major concern for me, however, since I was not planning on including them in my phrases deck in the first place.)
+c. They contained a set of characters that represented a symbol or did not represent a full word (such as "ve got" or "s the.). I believe that in the original list, entries such as "ve got" and "s the" were originally preceded by an apostrope (e.g. 've got and 's the). However, because Excel treats apostrophes as special characters when they start an entry, these apostrophes got removed during the above steps. This wasn't a major concern for me, however, since I was not planning on including them in my phrases deck in the first place.)
 
-4. They started with “a,” “an,” or “the,” “his,” or “her” (especially if they were followed by a noun), or started with “to” followed by a verb)
+d. They started with “a,” “an,” or “the,” “his,” or “her” (especially if they were followed by a noun), or started with “to” followed by a verb)
 
-5. They included a number represented by a “#,” or included a written number and a noun (e.g. "two years"; "the three")
+e. They included a number represented by a “#,” or included a written number and a noun (e.g. "two years"; "the three")
 
-6. I didn’t feel that they merited inclusion in the list (for example, “see p”; “and er”; “voice over”; “secretary of”; and “in studio”).
+f. I didn’t feel that they merited inclusion in the list (for example, “see p”; “and er”; “voice over”; “secretary of”; and “in studio”).
 
-7. It represented a single noun (e.g. “secretary of state” and “prime minister”)
+g. It represented a single noun (e.g. “secretary of state” and “prime minister”)
 
-8. It was merely part of another phrase in the list that would account for all or almost all of the uses of that phrase. For example, I removed “as part” because “as part of the” was also in the list, and there wouldn’t be too many times that I would write “as part” without a “the” following it. Similarly, I didn't include "on the other" and "other hand" because "on the other hand" was going to be included.
+h. It was merely part of another phrase in the list that would account for all or almost all of the uses of that phrase. For example, I removed “as part” because “as part of the” was also in the list, and there wouldn’t be too many times that I would write “as part” without a “the” following it. Similarly, I didn't include "on the other" and "other hand" because "on the other hand" was going to be included.
 
 Note that due to these removals, the numbers in the "Frequency rank among included cards" column are not contiguous. 
 
-5.1.9. Ultimately, I came up with a list of about 1,079 phrases that I then incorporated into the phrase deck. I gave all of these words a relative frequency rank, and used that rank to order the cards for import into Anki. (Why 1079? 1079 plus 4201—the number of entries in the single-word deck—equals 5280, the number of feet in a mile.)
+Ultimately, I came up with a list of about 1,079 phrases that I then incorporated into the phrase deck. I gave all of these words a relative frequency rank, and used that rank to order the cards for import into Anki. (Why 1079? 1079 plus 4201—the number of entries in the single-word deck—equals 5280, the number of feet in a mile.)
 
-5.1.10. However, the phrases deck spreadsheet also includes other phrases/words that ranked in my original list of the top 2,002 entries as well. These phrases/words were not included in my Anki deck, but you are welcome to look through them and study them as well.
+However, the phrases deck spreadsheet also includes other phrases/words that ranked in my original list of the top 2,002 entries as well. These phrases/words were not included in my Anki deck, but you are welcome to look through them and study them as well.
 
-5.2. Choosing outlines for phrases
+**5.2. Choosing outlines for phrases**
 
-5.2.1. Some phrases were covered by one or more original outlines, in which case I listed one of those outlines in the spreadsheet. However, I also created a number of outlines for these phrases as well. 
+Some phrases were covered by one or more original outlines, in which case I listed one of those outlines in the spreadsheet. However, I also created a number of outlines for these phrases as well. 
 
 In general, I tried to make phrases phonetic in nature, but some phrases include non-phonetic elements; in some cases, this is because they are based on a single-word outline that is only somewhat intuitive. 
 
 It was ideal, when possible, to create phrases for outlines that were are simply groupings of the outlines for the single words that make up the phrase. (For example, TPH- for “in” plus –T for “the” equals TPH-T for “in the.” However, such outlines are often mapped to other words. In addition, these outlines aren’t always very ergonomic. Therefore, such outlines represent only a minority of my phrase outlines.
 
-5.2.2. I preferred that the order of elements in a phrase match the order of elements in its corresponding outline. For example, I prefer KU for "can you" because the K (for "can") and the U (for "you") come in the same order as the "can" and "you" in "can you." I often used an asterisk to "reverse" the output of an outline where needed. For instance, I use K*U for "you can," as the asterisk "reverses" the order of "can you," resulting in "you can." I believe that this convention makes some phrase outlines easier to remember.
+**5.2.1.** Matching outline element order to phrase element order**
 
-5.2.3. Asterisks can also be used to convert an outline for a phrase into an outline for a contraction, and vice versa. For instance, I use THEL for "they'll," so I added in TH*EL (TH*EL plus an asterisk) for "they will."
+I preferred that the order of elements in a phrase match the order of elements in its corresponding outline. For example, I prefer KU for "can you" because the K (for "can") and the U (for "you") come in the same order as the "can" nd "you" in "can you." I often used an asterisk to "reverse" the output of an outline where needed. For instance, I use K*U for "you can," as the asterisk "reverses" the order of "can you," resulting in "you can." I believe that this convention makes some phrase outlines easier to remember.
 
-5.2.4. I also tried to add in options for “an” versions of phrases that ended in “a.” These outlines are often similar to the “a” version of the phrase, except that they also have a modification that represents the “an.” These modifications often entailed (1 a -P (which is often more ergonomic than a -PB); (2 a –PB; or (3 an asterisk.
+**5.2.2. Phrases and contractions**
+Asterisks can also be used to convert an outline for a phrase into an outline for a contraction, and vice versa. For instance, I use THEL for "they'll," so I added in TH*EL (TH*EL plus an asterisk) for "they will."
 
-5.3. Important notes regarding the phrases deck
+**5.2.3. Phrases with "an"**
 
-5.3.1. I do not currently have plans to add in mnemonic stories for these outlines. However, if you believe such stories would be helpful for you, feel free to add in your own stories!
+ I also tried to add in options for “an” versions of phrases that ended in “a.” These outlines are often similar to the “a” version of the phrase, except that they also have a modification that represents the “an.” These modifications often entailed (1 a -P (which is often more ergonomic than a -PB); (2 a –PB; or (3 an asterisk.
 
-5.3.3. In contrast to the single-word added-in outlines list, there is no limit to how many characters an outline can contain (although I still had a preference for outlines with fewer keypresses). However, for a phrase outline to be included in these lists, it must have only one stroke.
+**5.3. Important notes regarding the phrases deck**
 
-5.3.4. I did not always note what derivative forms of an outline I also added in, so feel free to play around with these outlines and add in your own derivatives as well.
+1. I do not currently have plans to add in mnemonic stories for these outlines. However, if you believe such stories would be helpful for you, feel free to add in your own stories!
 
-5.3.5. Note that there will be a number of situations in which using a phrase outline involves more keypresses than would using individual word outlines. However, because you save strokes through the use of the phrase outline, I am confident that with practice, using the phrase outlines will ultimately prove to be faster.
+2. In contrast to the single-word added-in outlines list, there is no limit to how many characters an outline can contain (although I still had a preference for outlines with fewer keypresses). However, for a phrase outline to be included in these lists, it must have only one stroke.
 
-5.3.6. Note to self: to add in additional phrases, see the "New English phrases list for ROPE V4 top 2002" only document. If you need even more than 2002 phrases, see the "New English phrases list for ROPE V4" document.
+3. I did not always note what derivative forms of an outline I also added in, so feel free to play around with these outlines and add in your own derivatives as well.
+
+4. Note that there will be a number of situations in which using a phrase outline involves more keypresses than would using individual word outlines. However, because you save strokes through the use of the phrase outline, I am confident that with practice, using the phrase outlines will ultimately prove to be faster.
+
+5. Note to self: to add in additional phrases, see the "New English phrases list for ROPE V4" document.
 
 ** 6: Command and Punctuation Outlines in ROPE **
 
