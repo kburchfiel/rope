@@ -51,7 +51,7 @@ Finally, as noted above, I plan to continue to update ROPE over time. For instan
 
 I am a Plover enthusiast, but I am not a professional stenotypist, and I am still working on building my speed. Although I think my outline additions will help me boost my speed, I don't have any proof that these outlines will be faster than the original outlines also listed. Therefore, use these new outlines at your own risk!
 
-# #Source for the original frequency list and frequency stats:				 
+**ource for the original frequency list and frequency stats:				 
 
 The words in ROPE's single-word deck and their corresponding frequency statistics come from the New General Service List Website (http://www.newgeneralservicelist.org/ ) (Browne, C., Culligan, B., and Phillips, J). The "NGSL Stats & Frequencies to 34K" list was the main source of words and is available at http://www.newgeneralservicelist.org/s/NGSL-101-with-SFI.xlsx . 															
 
@@ -63,11 +63,12 @@ Citation for the NAWL, which some of the words in this list belong to:
 Browne, C., Culligan, B. & Phillips, J. (2013). The New Academic Word List. Retrieved from    http://www.newgeneralservicelist.org.							
 
 
-# # How ROPE 2.3 can help you save keypresses:
+**How ROPE 2.3 can help you save keypresses:
 
 The added-in outlines in ROPE's single-word deck usually let you write common words with fewer keypresses and strokes than you could with the outlines that already exist in the Plover dictionary. See the table below (copied and pasted from the ROPE spreadsheet) for more details:
 
-# # # Average keypresses per root word in ROPE (as of 1/14/2020):
+**Average keypresses per root word in ROPE (as of 1/14/2020):**
+
 (This set of words does not include a couple of R-rated words in the NGSL top 4000. Also, there may be some errors in the count.)
 
 **Words 1 to 100 (by frequency):**
@@ -209,7 +210,7 @@ One final note: before exporting your Anki deck (e.g. to back it up), I think yo
 
 
 
-# #1.4. Is a dictionary with the ROPE outlines available?
+**1.4. Is a dictionary with the ROPE outlines available?**
 Yes! I have now made public a custom Plover dictionary ("ROPE 3-0 Additions and more") that contains all of the outlines for many additions that ROPE suggests, along with lots of misstroke entries that will make these outlines easier to adopt. The dictionary can be found on the Rope GitHub page.
 
 This dictionary is not perfect; for example, it contains lots of "outdated" added-in outlines that have since been replaced with new additions. In addition, if you don't wish to use all of the added-in outlines in ROPE, I wouldn't necessarily recommend using this dictionary, as it remaps a number of pre-existing outlines to new words. A further issue with this dictionary is that new outlines are continuing to be developed, so any download of this dictionary will become outdated over time. (However, I will continue to upload updates of this dictionary.)
@@ -740,10 +741,6 @@ If you add in a new outline for a card in the Anki deck, and that card is not du
 **7.4. Is a VR version of ROPE being planned?**
 
 Not at this time, no.
-
-**7.5. Does ROPE have any microtransactions?**
-
-It does not.
 
 
 -Kenneth Burchfiel
