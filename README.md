@@ -211,6 +211,7 @@ One final note: before exporting your Anki deck (e.g. to back it up), I think yo
 
 
 **1.4. Is a dictionary with the ROPE outlines available?**
+
 Yes! I have now made public a custom Plover dictionary ("ROPE 3-0 Additions and more") that contains all of the outlines for many additions that ROPE suggests, along with lots of misstroke entries that will make these outlines easier to adopt. The dictionary can be found on the Rope GitHub page.
 
 This dictionary is not perfect; for example, it contains lots of "outdated" added-in outlines that have since been replaced with new additions. In addition, if you don't wish to use all of the added-in outlines in ROPE, I wouldn't necessarily recommend using this dictionary, as it remaps a number of pre-existing outlines to new words. A further issue with this dictionary is that new outlines are continuing to be developed, so any download of this dictionary will become outdated over time. (However, I will continue to upload updates of this dictionary.)
@@ -600,6 +601,8 @@ Also note that new updates to the main Plover dictionary may render any given no
 
 
 # # Part 2: The Phrases Deck and commands/punctuation outlines page
+
+(Note: for information regarding how to use the Anki phrase deck, see the notes above regarding the single-word Anki deck.)
 
 **5.1. How the phrases deck was made:**
 
