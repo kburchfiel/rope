@@ -49,7 +49,7 @@ Finally, as noted above, I plan to continue to update ROPE over time. For instan
 
 **Disclaimer with regard to the added-in outlines:**
 
-I am a Plover enthusiast, but I am not a professional stenotypist, and I am still working on building my speed. Although I think my outline additions will help me boost my speed, I don't have any proof that these outlines will be faster than the original outlines also listed. Therefore, use these new outlines at your own risk!
+I am a Plover enthusiast, but I am not a professional stenotypist, and I am still working on building my speed. Although I think my outline additions will help me boost my speed, I don't have any proof that these outlines will be faster than the original outlines also listed. Therefore, use these new outlines at your own risk! (This applies to all outline additions in ROPE, not just to my single-word outline additions.)
 
 **ource for the original frequency list and frequency stats:				 
 
