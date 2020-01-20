@@ -303,7 +303,7 @@ outline for the undercase version)
 
 15. AOEU: ICEBERG (AOEURG)
 
-Also, the word "porcupine" (PRAOEUPB) in a story means that the outline has an asterisk. ("Star" is sometimes used for this as well, although it may not always be capitalized like the above words.)
+Also, to represent asterisks, I generally use either "porcupine" (PRAOEUPB) or "star" (STAR for lowercase; STA*UR for "STAR (\*)."
 
 Not all stories use these vowel specifiers, but feel free to add them to stories when they would be helpful for you. If I keep entering the wrong vowel sound when I'm quizzing myself on outlines, that's an indicator that I need to include one of the vowel specifiers into my story.
 
