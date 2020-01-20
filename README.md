@@ -687,7 +687,17 @@ Asterisks can also be used to convert an outline for a phrase into an outline fo
 
 ** 6: Command and Punctuation Outlines in ROPE **
 
-ROPE also has an incomplete list of command and punctuation outlines; this list can be found third sheet of the spreadsheet. I don't plan to create a corresponding flashcard deck for them, but I highly recommend looking through them.
+ROPE also has an incomplete list of pre-existing and added-in command and punctuation strokes that you can use with Plover. Some of these strokes are from Ted Morin's Cross Platform Movement dictionary ( http://www.openstenoproject.org/stenodict/dictionaries/cross_platform_movement.html  ), and some are my own additions. The Plover Dictionary Format page on GitHub ( https://github.com/openstenoproject/plover/wiki/Dictionary-Format#plover-control-commands ) was another source of commands and outlines, and https://sites.google.com/site/ploverdoc/appendix-the-dictionary-format (Zack Brown) may have been as well.
+
+I will try to keep this list up-to-date, but it won't be comprehensive. If you wish to see all the current command strokes added to my dictionary, open up the dictionary in Plover, sort by Translation, and then scroll down near the very bottom for strokes that start with {. (Note that many command strokes start with {# .)  Pre-existing command strokes can be found in the Commands.json dictionary.
+
+I don't intend for any additions in ROPE to overwrite the only option for a command stroke unless I have added an alternative command stroke in my dictionary.
+
+Like the words and phrases in ROPE, this list is subject to change over time. 
+
+
+
+
 
 # # Part 4: Other considerations
 
