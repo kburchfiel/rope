@@ -49,11 +49,14 @@ Finally, as noted above, I plan to continue to update ROPE over time. For instan
 
 **Disclaimer with regard to the added-in outlines:**
 
-I am a Plover enthusiast, but I am not a professional stenotypist, and I am still working on building my speed. Although I think my outline additions will help me boost my speed, I don't have any proof that these outlines will be faster than the original outlines also listed. Therefore, use these new outlines at your own risk! (This applies to all outline additions in ROPE, not just to my single-word outline additions.)
+I am a Plover enthusiast, but I am not a professional stenotypist, and I am still working on building my speed. Although I think my outline additions will help me boost my speed, I don't have any proof that these outlines will be faster than the original outlines also listed; in fact, they may end up being slower. Therefore, use these new outlines at your own risk! (This applies to all outline additions in ROPE, not just to my single-word outline additions.)
 
 **ource for the original frequency list and frequency stats:				 
 
-The words in ROPE's single-word deck and their corresponding frequency statistics come from the New General Service List Website (http://www.newgeneralservicelist.org/ ) (Browne, C., Culligan, B., and Phillips, J). The "NGSL Stats & Frequencies to 34K" list was the main source of words and is available at http://www.newgeneralservicelist.org/s/NGSL-101-with-SFI.xlsx . 															
+The words in ROPE's single-word deck and their corresponding frequency statistics come from the New General Service List Website (http://www.newgeneralservicelist.org/ ) (Browne, C., Culligan, B., and Phillips, J). The "NGSL Stats & Frequencies to 34K" list was the main source of words and is available at http://www.newgeneralservicelist.org/s/NGSL-101-with-SFI.xlsx . 		
+
+P.S: Don't assume anything I say in the stories to be true! There's a ton of made-up information, but it's all there to help you learn the outlines for these words. In addition, mentions of products or companies in stories does not constitute endorsement of those products and services.  
+													
 
 Citations for the NGSL, which also contributed material for this list:		
 
