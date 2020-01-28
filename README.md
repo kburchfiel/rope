@@ -672,7 +672,7 @@ It was ideal, when possible, to create phrases for outlines that were are simply
 I preferred that the order of elements in a phrase match the order of elements in its corresponding outline. For example, I prefer KU for "can you" because the K (for "can") and the U (for "you") come in the same order as the "can" nd "you" in "can you." I often used an asterisk to "reverse" the output of an outline where needed. For instance, I use K*U for "you can," as the asterisk "reverses" the order of "can you," resulting in "you can." I believe that this convention makes some phrase outlines easier to remember.
 
 **5.2.2. Phrases and contractions**
-Asterisks can also be used to convert an outline for a phrase into an outline for a contraction, and vice versa. For instance, I use THEL for "they'll," so I added in TH*EL (TH*EL plus an asterisk) for "they will."
+Asterisks can also be used to convert an outline for a phrase into an outline for a contraction, and vice versa. For instance, I use H-D for "he had," so I added in H*D for "he'd." 
 
 **5.2.3. Phrases with "an"**
 
