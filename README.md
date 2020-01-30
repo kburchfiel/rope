@@ -354,7 +354,7 @@ I probably went into more detail here than was necessary, but I didn't want you 
 
 11: -B: BRAZIL (PWREUL)
 
-12: -L: LASER (S*UR; HRA*EURS for "LASER (L-)")
+12: -L: LASER (S*UR; HRA*EURS for "LASER (-L)")
 
 13: -G: GOAT (TKPWOET)
 
