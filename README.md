@@ -68,37 +68,41 @@ Citation for the NAWL, which some of the words in this list belong to:
 Browne, C., Culligan, B. & Phillips, J. (2013). The New Academic Word List. Retrieved from    http://www.newgeneralservicelist.org.							
 
 
-**How ROPE 2.3 can help you save keypresses:
+**How ROPE can help you save keypresses:
 
 The added-in outlines in ROPE's single-word deck usually let you write common words with fewer keypresses and strokes than you could with the outlines that already exist in the Plover dictionary. See the table below (copied and pasted from the ROPE spreadsheet) for more details:
 
-**Average keypresses per root word in ROPE (as of 1/14/2020):**
+**Average keypresses per root word in ROPE as of 2/1/2020:**
+
+(Note: "root words" refers to those words that have their own frequency data included in the NGSL data. Words that lacked this data are considered "derivative words," even though some are not derivatives of other words. The frequency ranking for root words consists of an integer, whereas the frequency ranking of non-root words ends in a decimal value.)
+
+(The totals below are rounded to the nearest thousandth.)
 
 (This set of words does not include a couple of R-rated words in the NGSL top 4000. Also, there may be some errors in the count.)
 
-**Words 1 to 100 (by frequency):**
+**Root words 1 to 100 (by frequency):**
 
 ROPE: **2.610**
 
 Original outlines: **3.680**
 
-Regular typing (e.g. QWERTY/Dvorak; includes extra keypresses for capital letters but not for the space bar): **3.54**
+Regular typing (e.g. QWERTY/Dvorak; includes extra keypresses for capital letters but not for the space bar): **3.540**
 
-**Words 1 to 500:**
+**Root words 1 to 500:**
 
 ROPE: **3.268**
 
 Original outlines: **4.804**
 
-Regular typing: **4.97**
+Regular typing: **4.966**
 
 **Words 1 to 1000:**
 
 ROPE: **3.502**
 
-Original outlines: **5.425**
+Original outlines: **5.244**
 
-Regular typing: **5.60**
+Regular typing: **5.599**
 
 **Words 1 to 2000:**
 
@@ -106,24 +110,23 @@ ROPE: **3.953**
 
 Original outlines: **5.724**
 
-Regular typing: **6.15**
+Regular typing: **6.153**
 
 **Words 1 to 4000:**
 
-ROPE: **4.296**
+ROPE: **4.301**
 
 Original outlines: **6.390**
 
-Regular typing: **6.62**
-
+Regular typing: **6.624**
 
 **All words in ROPE:**
 
-ROPE: **4.278**
+ROPE: **4.288**
 
 Original outlines: **6.349**
 
-Regular typing: **6.59**
+Regular typing: **6.593**
 
 
 
@@ -748,7 +751,7 @@ The Phrases in English website states that "to help ensure continued support for
 
 4. Import this UTF-8 file into Anki. I recommend having "Import even if existing note has same first field" selected, as it appears that otherwise, cards will not be added to a deck if they exist elsewhere.
 
-Note: the error message "the first field of the note type must be mapped" may occur if, during the import process, you do not map any field to the first field (Front) of the ROPE note type. To solve this, map the word/phrase column to "front" instead of to the word/phrase field. (Another solution could potentially be to delete the "front" field, but that would probably delete all of the words from the English ROPE 2.3 deck! Therefore, for now, I'll simply map the word/phrase column to "front.") 
+Note: the error message "the first field of the note type must be mapped" may occur if, during the import process, you do not map any field to the first field (Front) of the ROPE note type. To solve this, map the word/phrase column to "front" instead of to the word/phrase field. (Another solution could potentially be to delete the "front" field, but that would probably delete all of the words from the English ROPE deck! Therefore, for now, I'll simply map the word/phrase column to "front.") 
 
 Even with all these steps, after enough practice, you should be able to import a set of cards from Excel into Anki in less than 4 minutes.
 
