@@ -480,9 +480,9 @@ As noted above, I prefer to match the root version of an outline with the root v
 
 I prefer intuitive outlines to non-intuitive ones. Intuitive outlines are easier to learn, and it's also possible that they are faster to write (although this speed advantage may decrease or disappear once a non-intuitive outline is practiced sufficiently).  However, unlike my keypress limits for outlines, intuitiveness is *not* a requirement for outlines to be included in ROPE.
 
-"Intuitive" outlines, as I define them, are outlines that (1 start with the same letter as the words they represent, or (2 have some other similarity to the words, such as a phonetic or spelling-related resemblance. These outlines often still include non-intuitive components, such as letters not found in the original word. 
+"Intuitive" outlines, as I define them, are outlines that (1 start with the same letter as the words they represent, or (2 have some other similarity to the words, such as a phonetic or spelling-related resemblance. These outlines often also include non-intuitive components, such as letters not found in the original word. 
 
-(Note that an outline's first letter may be different from an outline's first key; for instance, an outline that starts with "TPH" could be considered as starting with the letter T *or* the letter N (to which TPH- maps). In addition, it was also acceptable for an outline to start with the same letter as did a major or dominant syllable within the word.)
+(Note that an outline's first letter may be different from an outline's first key; for instance, an outline that starts with "TPH" could be considered as starting with the letter T *or* the letter N (to which TPH- maps). In addition, it was also acceptable for an outline to start with the same letter as did a syllable within the word.)
 
 I also admit that I initially underestimated the value of intuitiveness in designing ROPE. Therefore, I have made hundreds of changes to my outlines deck in order to replace non-intuitive outlines with more intuitive outlines. My goal was for as many outlines in ROPE to be at least somewhat intuitive as was feasibly possible. 
 
