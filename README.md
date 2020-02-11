@@ -311,7 +311,7 @@ outline for the undercase version)
 
 15. AOEU: ICEBERG (AOEURG)
 
-Also, to represent asterisks, I generally use either "porcupine" (PRAOEUPB) or "star" (STAR for lowercase; STA*UR for "STAR (\*)."
+Also, to represent asterisks, I generally use either "porcupine" (PRAOEUPB) or "star" (STAR for lowercase; STA*UR for "STAR (\*)").
 
 Not all stories use these vowel specifiers, but feel free to add them to stories when they would be helpful for you. If I keep entering the wrong vowel sound when I'm quizzing myself on outlines, that's an indicator that I need to include one of the vowel specifiers into my story.
 
@@ -361,8 +361,7 @@ I probably went into more detail here than was necessary, but I didn't want you 
 
 13: -G: GOAT (TKPWOET)
 
-14: -T: TACOs (though some stories also use "tea" to represent -T) (TOEUBG) (I also added in 
-TO*EUBGZ for "TACOS (-T)")
+14: -T: TACOs (though some stories also use "tea" to represent -T) (TROEUBG) 
 
 15: -S: SPAIN (SPAEUPB)
 
