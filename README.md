@@ -680,13 +680,91 @@ Asterisks can also be used to convert an outline for a phrase into an outline fo
 
  I also tried to add in options for “an” versions of phrases that ended in “a.” These outlines are often similar to the “a” version of the phrase, except that they also have a modification that represents the “an.” These modifications often entailed (1 a -P (which is often more ergonomic than a -PB); (2 a –PB; or (3 an asterisk.
 
-**5.3. Important notes regarding the phrases deck**
+**5.3. Derivative single-stroke phrase outlines that you can add in**
+
+There are a number of ways that you can extend some of the phrase outlines that are included in ROPE while keeping the resulting outline within one stroke. I often did not mention these derivative outlines directly in the notes, so I recommend experimenting with different outline options yourself. The ROPE dictionary, of course, will include derivative outlines that I have already added in.
+
+Here are some specific ways that you can try to extend outlines. (I believe that the options that appear non-intuitive are all based on pre-existing outlines in Plover.) There are of course other ways to extend outlines that aren't covered below. In addition, note that you may also be able to use these strategies to turn an outline for a single word into a phrase outline.
+
+1. You can try adding a -T at the end of outlines (or a T- to the beginning of outlines) to represent "the."
+
+2. You can try adding in -FS to represent "was" and -RP to represent "were."
+
+3. You can try adding in -BG to represent "can" and -BGD to represent "could."
+
+4. You can try adding in -L to represent "will" and -LD to represent "would."
+
+5. You can try adding in -S to represent "is," -R to represent "are," and -B to represent "be."
+
+6. You can try adding in -RBD to represent "should."
+
+7. You can try adding in -F to represent "have" or "of," -D to represent "had," and -Z to represent "has."
+
+8. You can try adding in -RBL to represent "shall."
+
+9. You can try adding in -RT to represent "are the" and -BT to represent "be the."
+
+10. You can try adding in -BS to represent "said" and -BS to represent "says."
+
+11. You can try adding in *T or T- to represent "it."
+
+12. You can try adding in -PBG to represent "think."
+
+13. You can try adding in -BL to represent "believe."
+
+14. You can try adding in *T to represent "that."
+
+15. You can try adding in -T or -T to represent "to."
+
+16. You can try adding in -PT to represent "want."
+
+Note that it may even be possible to combine two or more of these strategies within the same single-stroke derivative outline. For instance, adding both -B and -T to the same outline can represent "be the."
+
+As an example of how to put some of the above options into practice: THAU is an outline for "that you." Here are some derivative phrase outlines that can be formed using THAU as a base:
+
+1. THAUBG for "that you can"
+
+2. THAUL for "that you will" (already in the Plover dictionary)
+
+3. THAUF for "that you have"
+
+4. THAUBGD for "that you could"
+
+5. THAULD for "that you would"
+
+6. THAURP for "that you were"
+
+7. THAUD for "that you had" (already in the Plover dictionary)
+
+8. THAURBD for "that you should"
+
+9. THAURBL for "that you shall"
+
+10. THAURT for "that you are the"
+
+11. THAUPBG (which overwrites "thank you," for which I added in HAU, as I added in HA for "thank") for "that you think"
+
+12. THAUBL for "that you believe"
+
+13. THAUBLD for "that you would be" (which combines two of the strategies noted above)
+
+14. THAUBLTD for "that you would be the" (this outline is rather hard to write, but serves as a demonstration of how you can combine even three of the strategies listed above) 
+
+15. THAUPT for "that you want"
+
+**5.4.** Conjugating phrase outlines that include a verb**
+
+In addition, you can try adding in single-stroke outlines to represent different conjugations of phrase outlines that involve a verb. For example, I added in WUT (which overwrites one way to write "but") for "want to." Therefore, I also added in WUGT for "wanting to," WUTS for "wants to," and WUTD for "wanted to."
+
+Similarly, you can try turning a phrase outline into its plural form by adding an -S (or -Z if necessary).
+
+**5.5. Important notes regarding the phrases deck**
 
 1. I do not currently have plans to add in mnemonic stories for these outlines. However, if you believe such stories would be helpful for you, feel free to add in your own stories!
 
 2. In contrast to the single-word added-in outlines list, there is no limit to how many characters an outline can contain (although I still had a preference for outlines with fewer keypresses). However, for a phrase outline to be included in these lists, it must have only one stroke.
 
-3. I did not always note what derivative forms of an outline I also added in, so feel free to play around with these outlines and add in your own derivatives as well.
+3. I did not always note what derivative forms of an outline I also added in, so feel free to play around with these outlines and add in your own derivatives as well. (Examples of how to do so are noted above.)
 
 4. Note that there will be a number of situations in which using a phrase outline involves more keypresses than would using individual word outlines. However, because you save strokes through the use of the phrase outline, I am confident that with practice, using the phrase outlines will ultimately prove to be faster.
 
