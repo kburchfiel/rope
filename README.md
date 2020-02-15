@@ -694,7 +694,7 @@ Here are some specific ways that you can try to extend outlines. (I believe that
 
 4. You can try adding in -L to represent "will" and -LD to represent "would."
 
-5. You can try adding in -S to represent "is," -R to represent "are," and -B to represent "be."
+5. You can try adding in -S to represent "is," -R to represent "are," and -B to represent "be" or "been."
 
 6. You can try adding in -RBD to represent "should."
 
@@ -717,6 +717,7 @@ Here are some specific ways that you can try to extend outlines. (I believe that
 15. You can try adding in -T or -T to represent "to."
 
 16. You can try adding in -PT to represent "want."
+
 
 Note that it may even be possible to combine two or more of these strategies within the same single-stroke derivative outline. For instance, adding both -B and -T to the same outline can represent "be the."
 
