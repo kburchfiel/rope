@@ -2,6 +2,10 @@
 
 AMDG
 
+
+# # NOTE--read before downloading: I am currently adding in stories for my phrase outlines within my spreadsheet. Therefore, I have paused my updates of the Anki phrase deck (meaning that deck is out of sync with the list in my spreadsheet). I plan to release a new phrase deck that will include my new stories and other updates before 2/29/2020. Until then, I would recommend focusing your studies on the single-word deck. 
+
+
 <img src="https://github.com/kburchfiel/rope/blob/master/Hastily%20made%20logo.png" alt="Hastily made logo" width="400"/>
 
 # # Part 1: an introduction to ROPE 
@@ -678,7 +682,12 @@ Asterisks can also be used to convert an outline for a phrase into an outline fo
 
 **5.2.3. Phrases with "an"**
 
- I also tried to add in options for “an” versions of phrases that ended in “a.” These outlines are often similar to the “a” version of the phrase, except that they also have a modification that represents the “an.” These modifications often entailed (1 a -P (which is often more ergonomic than a -PB); (2 a –PB; or (3 an asterisk.
+ I also tried to add in options for “an” versions of phrases that ended in “a.” These outlines are often similar to the “a” version of the phrase, except that they also have a modification that represents the “an.” These modifications often entailed (1 a -P (which is often more ergonomic than a -PB); (2 a –PB; or (3 an asterisk. When one of these modifications was used, I didn't necessarily deem it necessary to add in a story for that outline.
+
+**5.2.4. Using asterisks to represent words following a verb in phrases**
+
+Asterisks could be used to represent the word that follows a verb in a verb phrase. For instance, the addition of S*AE for "say that" combines the addition of SAE for "say" with an asterisk to represent "that."
+
 
 **5.3. Derivative single-stroke phrase outlines that you can add in**
 
@@ -694,11 +703,11 @@ Here are some specific ways that you can try to extend outlines. (I believe that
 
 4. You can try adding in -L to represent "will" and -LD to represent "would."
 
-5. You can try adding in -S to represent "is," -R to represent "are," and -B to represent "be" or "been."
+5. You can try adding in -S or S- to represent "is," -R to represent "are," and -B to represent "be" or "been."
 
 6. You can try adding in -RBD to represent "should."
 
-7. You can try adding in -F to represent "have" or "of," -D to represent "had," and -Z to represent "has."
+7. You can try adding in -F to represent "have," "of," or "if"; -D to represent "had"; and -Z to represent "has."
 
 8. You can try adding in -RBL to represent "shall."
 
@@ -759,17 +768,38 @@ In addition, you can try adding in single-stroke outlines to represent different
 
 Similarly, you can try turning a phrase outline into its plural form by adding an -S (or -Z if necessary).
 
+**5.5. Stories in the phrases deck**
+
+Originally, the phrases deck did not have any stories added for it. However, during my review process, I realized that these stories would be very helpful, so I started to add them in (and, as of 2/15/2020, am still in the process of writing stories). 
+
+The explanation of stories found in the single-word deck section of this readme also applies to the stories for the phrase deck. Note, however, that there will sometimes be parentheses and outlines separating elements of a phrase in my stories. Although this might make the phrase somewhat harder to distinguish, I believe that these stories will still be helpful. 
+
+As an example, consider the following story for PWA*GT for "began to": 
+
+"When everyone BA*G (began) to eat the TACOS (-T) served by the host, the party really took off. (PWA*G is an addition for "began.")"
+
+In this story, the phrase "began to" actually appears as "began) to," since parentheses were added in to specify that BA*G corresponds to "began."
+
+In addition, consider the following story for P*TS for "because the": 
+
+"Why isn't there any food in the house? P-S (because) -T (the) PORCUPINES (*) outside came in and ate it all! (P-S is an addition for "because.")"
+
+In this case, "because" and "the" are separated by parentheses and -T, the outline for "the."
+
+It's also worth noting that stories may not be designed to help you remember all elements of a phrase. For instance, stories for phrases starting with "and" might not include material to help you remember the "and," since "and" is usually represented with SKP-, and this should not be too difficult to remember once you recognize this pattern.
+
+
 **5.5. Important notes regarding the phrases deck**
 
-1. I do not currently have plans to add in mnemonic stories for these outlines. However, if you believe such stories would be helpful for you, feel free to add in your own stories!
+1. In contrast to the single-word added-in outlines list, there is no limit to how many characters an outline can contain (although I still had a preference for outlines with fewer keypresses). However, for a phrase outline to be included in these lists, it must have only one stroke.
 
-2. In contrast to the single-word added-in outlines list, there is no limit to how many characters an outline can contain (although I still had a preference for outlines with fewer keypresses). However, for a phrase outline to be included in these lists, it must have only one stroke.
+2. I did not always note what derivative forms of an outline I also added in, so feel free to play around with these outlines and add in your own derivatives as well. (Examples of how to do so are noted above.)
 
-3. I did not always note what derivative forms of an outline I also added in, so feel free to play around with these outlines and add in your own derivatives as well. (Examples of how to do so are noted above.)
+3. Note that there will be a number of situations in which using a phrase outline involves more keypresses than would using individual word outlines. However, because you save strokes through the use of the phrase outline, I am confident that with practice, using the phrase outlines will ultimately prove to be faster.
 
-4. Note that there will be a number of situations in which using a phrase outline involves more keypresses than would using individual word outlines. However, because you save strokes through the use of the phrase outline, I am confident that with practice, using the phrase outlines will ultimately prove to be faster.
+4. I did not always specify the etymology of phrase outlines, especially if this etymology seemed pretty clear. (Of course, each person's definition of "clear" may vary.) If a certain phrase outline appears unclear to you, keep in mind that many outlines have non-intuitive components. It may also help to look at the outlines in the single-word deck that correspond to the words in the phrase.
 
-5. Note to self: to add in additional phrases, see the "New English phrases list for ROPE V4" document.
+4. [Note to self: to add in additional phrases, see the "New English phrases list for ROPE V4" document.]
 
 ** 6: Command and Punctuation Outlines in ROPE **
 
