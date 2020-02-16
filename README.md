@@ -3,7 +3,7 @@
 AMDG
 
 
-# # NOTE--read before downloading: I am currently adding in stories for my phrase outlines within my spreadsheet. Therefore, I have paused my updates of the Anki phrase deck (meaning that deck is out of sync with the list in my spreadsheet). I plan to release a new phrase deck that will include my new stories and other updates before 2/29/2020. Until then, I would recommend focusing your studies on the single-word deck. 
+# # NOTE--read before downloading: I am currently adding in stories for my phrase outlines within my spreadsheet. Therefore, I have paused my updates of the Anki phrase deck (meaning that deck is out of sync with the list in my spreadsheet). I plan to release a new phrase deck that will include my new stories and other updates before 2/29/2020. Until then, I would recommend that you focus your studies on the single-word deck. 
 
 
 <img src="https://github.com/kburchfiel/rope/blob/master/Hastily%20made%20logo.png" alt="Hastily made logo" width="400"/>
