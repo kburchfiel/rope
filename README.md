@@ -786,7 +786,9 @@ In addition, consider the following story for P*TS for "because the":
 
 In this case, "because" and "the" are separated by parentheses and -T, the outline for "the."
 
-It's also worth noting that stories may not be designed to help you remember all elements of a phrase. For instance, stories for phrases starting with "and" might not include material to help you remember the "and," since "and" is usually represented with SKP-, and this should not be too difficult to remember once you recognize this pattern.
+It's also worth noting that stories may not be designed to help you remember all elements of a phrase. For example, stories for phrases that start with SKP- for "and" often won't mention that part of the outline. SKP- appears so often for "and" in phrases that you should be able to remember it on your own after enough study. 
+
+As in the single-word deck, not all phrase outlines received a story. For example, if a phrase outline was simply a combination of two or more outlines from the single-word deck, I often didn't include a story for it.
 
 
 **5.5. Important notes regarding the phrases deck**
