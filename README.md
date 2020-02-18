@@ -2,10 +2,6 @@
 
 AMDG
 
-
-# # NOTE--read before downloading: I am currently adding in stories for my phrase outlines within my spreadsheet. Therefore, I have paused my updates of the Anki phrase deck (meaning that deck is out of sync with the list in my spreadsheet). I plan to release a new phrase deck that will include my new stories and other updates before 2/29/2020. Until then, I would recommend that you focus your studies on the single-word deck. 
-
-
 <img src="https://github.com/kburchfiel/rope/blob/master/Hastily%20made%20logo.png" alt="Hastily made logo" width="400"/>
 
 # # Part 1: an introduction to ROPE 
@@ -21,7 +17,7 @@ Welcome to ROPE (Remembering Outlines in Plover more Easily), my system for lear
 
 ROPE has two main components: a single-word deck and a phrase deck. The single-word deck includes 4,201 common words; both original and added-in outlines for these words; and over 2,700 mnemonic stories to help you remember these outlines. Thanks to the roughly 3,250 added-in outlines, you can write the top 1,000 root words (by frequency) in the single-word deck in 1 stroke and 4 keypresses or less, and all of the other words in 1 stroke and 5 keypresses or less.
 
-The phrase deck includes 1,079 common phrases. The original and added-in outlines allow you to write all of these phrases in only one stroke.
+The phrase deck includes 1,079 common phrases. The original and added-in outlines allow you to write all of these phrases in only one stroke. This deck also includes about 625 stories to help you remember these outlines.
 
 ROPE's two Anki decks allow you to use the power of spaced repetition to commit these outlines to memory, while ROPE's spreadsheet gives you an easy way to look up (and edit) outlines and stories. ROPE's spreadsheet also includes an incomplete list of command and punctuation strokes.
 
@@ -770,7 +766,7 @@ Similarly, you can try turning a phrase outline into its plural form by adding a
 
 **5.5. Stories in the phrases deck**
 
-Originally, the phrases deck did not have any stories added for it. However, during my review process, I realized that these stories would be very helpful, so I started to add them in (and, as of 2/15/2020, am still in the process of writing stories). 
+Originally, the phrases deck did not have any stories added for it. However, during my review process, I realized that these stories would be very helpful, so I ended up adding in about 625 of them. (The number of stories is subject to change over time).
 
 The explanation of stories found in the single-word deck section of this readme also applies to the stories for the phrase deck. Note, however, that there will sometimes be parentheses and outlines separating elements of a phrase in my stories. Although this might make the phrase somewhat harder to distinguish, I believe that these stories will still be helpful. 
 
@@ -791,15 +787,24 @@ It's also worth noting that stories may not be designed to help you remember all
 As in the single-word deck, not all phrase outlines received a story. For example, if a phrase outline was simply a combination of two or more outlines from the single-word deck, I often didn't include a story for it.
 
 
-**5.5. Important notes regarding the phrases deck**
+**5.6. Important notes regarding the phrases deck**
 
-1. In contrast to the single-word added-in outlines list, there is no limit to how many characters an outline can contain (although I still had a preference for outlines with fewer keypresses). However, for a phrase outline to be included in these lists, it must have only one stroke.
+1. I recommend studying through the words in the single-word deck before you begin studying the words in the phrase deck. I believe that it's more important to be able to write a series of words individually than it is to be able to write a phrase that combines them.
 
-2. I did not always note what derivative forms of an outline I also added in, so feel free to play around with these outlines and add in your own derivatives as well. (Examples of how to do so are noted above.)
+2. In contrast to the single-word added-in outlines list, there is no limit to how many characters an outline can contain (although I still had a preference for outlines with fewer keypresses). However, for a phrase outline to be included in these lists, it must have only one stroke.
 
-3. Note that there will be a number of situations in which using a phrase outline involves more keypresses than would using individual word outlines. However, because you save strokes through the use of the phrase outline, I am confident that with practice, using the phrase outlines will ultimately prove to be faster.
+3. I did not always note what derivative forms of an outline I also added in, so feel free to play around with these outlines and add in your own derivatives as well. (Examples of how to do so are noted above.)
 
-4. I did not always specify the etymology of phrase outlines, especially if this etymology seemed pretty clear. (Of course, each person's definition of "clear" may vary.) If a certain phrase outline appears unclear to you, keep in mind that many outlines have non-intuitive components. It may also help to look at the outlines in the single-word deck that correspond to the words in the phrase.
+4. Note that there will be a number of situations in which using a phrase outline involves more keypresses than would using individual word outlines. However, because you save strokes through the use of the phrase outline, I am confident that with practice, using the phrase outlines will ultimately prove to be faster.
+
+5. I do not always explain the etymology of phrase outlines in the notes column next to the additions column, especially if a given phrase outline simply combines two or more original outlines from the single-word deck, or makes use of one of the key combinations listed in section 5.3 of this (phrase deck) section of the readme. (For example, there aren't any explanatory notes for the phrase HOUT for "how the," since HOUT combines the outlines HOU for "how" with -T for "the.") I believe that such etymologies should be pretty clear to someone who has studied through the single-word deck (which I recommend doing prior to tackling the phrases deck). 
+
+However, also note that a phrase outline that incorporates one or more added-in outlines for words in the single-word deck may also not have an entry in the notes column. Even if such an entry exists, this entry may not make reference to all outlines that form part of the phrase outline. 
+
+Therefore, if a certain phrase outline appears unclear to you, it may help to look at the outlines (including added-in outlines) for the words in the single-word deck that correspond to the words in the phrase. Also keep in mind that many outlines have non-intuitive components. Some letters may have been added to an outline simply because there was a shortage of more intuitive outlines. Also, note that SKP- frequently maps to "and" in phrase outlines.
+
+In addition, you may also find it helpful to consult the list in part 5.3 of this (phrase deck) section of the readme, which shows some non-intuitive key combinations that can be used to extend outlines. These non-intuitive combinations (such as -FS for "was" and -BS for "said") are often not explained in the notes section, but study and practice should help you get used to them.
+
 
 4. [Note to self: to add in additional phrases, see the "New English phrases list for ROPE V4" document.]
 
