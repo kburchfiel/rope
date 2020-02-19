@@ -657,7 +657,7 @@ h. It was merely part of another phrase in the list that would account for all o
 
 Note that due to these removals, the numbers in the "Frequency rank among included cards" column are not contiguous. 
 
-Ultimately, I came up with a list of about 1,079 phrases that I then incorporated into the phrase deck. I gave all of these words a relative frequency rank, and used that rank to order the cards for import into Anki. (Why 1079? 1079 plus 4201葉he number of entries in the single-word deck容quals 5280, the number of feet in a mile.)
+Ultimately, I came up with a list of about 1,080 phrases that I then incorporated into the phrase deck. I gave all of these words a relative frequency rank, and used that rank to order the cards for import into Anki. (Why 1080? 1080 plus 4201葉he number of entries in the single-word deck容quals 5281, which is just over the number of feet in a mile.)
 
 However, the phrases deck spreadsheet also includes other phrases/words that ranked in my original list of the top 2,002 entries as well. These phrases/words were not included in my Anki deck, but you are welcome to look through them and study them as well.
 
